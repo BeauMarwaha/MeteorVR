@@ -1,0 +1,1132 @@
+﻿Log file open, 01/31/18 12:43:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Meteor
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1484777664) SRandInit(-1484777664).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.099213
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.31-17.43.55:473][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.31-17.43.55:473][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.31-17.43.55:503][  0]LogInit: Computer: IGM2350-11
+[2018.01.31-17.43.55:503][  0]LogInit: User: bcm2463
+[2018.01.31-17.43.55:503][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.31-17.43.55:503][  0]LogInit: High frequency timer resolution =3.515626 MHz
+[2018.01.31-17.43.55:503][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.01.31-17.43.55:503][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.31-17.43.55:503][  0]LogMemory: Process Physical Memory: 271.12 MB used, 271.12 MB peak
+[2018.01.31-17.43.55:503][  0]LogMemory: Process Virtual Memory: 269.29 MB used, 269.29 MB peak
+[2018.01.31-17.43.55:503][  0]LogMemory: Physical Memory: 4578.75 MB used,  11689.55 MB free, 16268.30 MB total
+[2018.01.31-17.43.55:503][  0]LogMemory: Virtual Memory: 673.53 MB used,  11689.55 MB free, 134217728.00 MB total
+[2018.01.31-17.43.55:603][  0]LogInit: Using OS detected language (en-US).
+[2018.01.31-17.43.55:603][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.31-17.43.55:606][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.31-17.43.55:944][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.31-17.43.56:161][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.31-17.43.56:193][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780' (Feature Level 11_0)
+[2018.01.31-17.43.56:193][  0]LogD3D11RHI:       3039/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.31-17.43.56:200][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.01.31-17.43.56:200][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.31-17.43.56:203][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.31-17.43.56:203][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.31-17.43.56:203][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.31-17.43.56:207][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.31-17.43.56:207][  0]LogD3D11RHI:     GPU DeviceId: 0x1004 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.31-17.43.56:207][  0]LogWindows: EnumDisplayDevices:
+[2018.01.31-17.43.56:207][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780' (P:1 D:1)
+[2018.01.31-17.43.56:207][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780' (P:0 D:1)
+[2018.01.31-17.43.56:207][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2018.01.31-17.43.56:207][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2018.01.31-17.43.56:207][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.31-17.43.56:208][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.31-17.43.56:208][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.01.31-17.43.56:208][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.31-17.43.56:208][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780
+[2018.01.31-17.43.56:208][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.31-17.43.56:208][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.31-17.43.56:208][  0]LogRHI: Texture pool is 2127 MB (70% of 3039 MB)
+[2018.01.31-17.43.56:225][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.31-17.43.56:238][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.31-17.43.56:240][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Intermediate/Shaders/WorkingDirectory/7064/).
+[2018.01.31-17.43.56:240][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Profiles/bcm2463/AppData/Local/Temp/UnrealShaderWorkingDir/8EAE192146DF9E0EC5FF2DA45B9B4520/'.
+[2018.01.31-17.43.56:240][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.31-17.43.57:012][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.31-17.43.57:052][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.31-17.43.57:092][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.31-17.43.57:134][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.31-17.43.57:185][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.31-17.43.57:226][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.31-17.43.57:268][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.31-17.43.57:307][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.31-17.43.57:339][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.31-17.43.57:376][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.31-17.43.57:415][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.31-17.43.57:453][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.31-17.43.57:492][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.31-17.43.57:533][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.31-17.43.57:629][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.31-17.43.57:629][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.31-17.43.57:669][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.31-17.43.57:696][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.31-17.43.57:767][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.31-17.43.57:789][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.31-17.43.57:828][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.31-17.43.57:866][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.31-17.43.57:906][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.31-17.43.57:945][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.31-17.43.57:945][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.31-17.43.58:276][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.31-17.43.58:334][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB D:/Profiles/bcm2463/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.31-17.43.58:334][  0]LogDerivedDataCache: Display: Loaded Boot cache: D:/Profiles/bcm2463/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.31-17.43.58:335][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.31-17.43.58:335][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.31-17.43.58:336][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.31-17.43.58:336][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.31-17.43.58:349][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.31-17.43.58:361][  0]LogDerivedDataCache: Using Local data cache path D:/Profiles/bcm2463/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.31-17.43.58:369][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.31-17.43.58:369][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.31-17.43.58:370][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.31-17.43.58:370][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.31-17.43.58:688][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.31-17.43.58:882][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.31-17.43.58:911][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.31-17.43.58:911][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.31-17.43.58:911][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.31-17.43.58:911][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.31-17.43.58:911][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.31-17.43.59:000][  0]LogNetVersion: Meteor , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2481781071)
+[2018.01.31-17.43.59:142][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2018.01.31-17.44.00:749][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 1.133834 seconds
+[2018.01.31-17.44.00:754][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.31-17.44.00:754][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.01.31-17.44.00:754][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.31-17.44.00:790][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.31-17.44.02:845][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.31-17.44.02:880][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.31-17.44.02:880][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.31-17.44.03:447][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.31-17.44.03:785][  0]SourceControl: Source control is disabled
+[2018.01.31-17.44.03:785][  0]SourceControl: Source control is disabled
+[2018.01.31-17.44.03:823][  0]SourceControl: Source control is disabled
+[2018.01.31-17.44.03:861][  0]SourceControl: Source control is disabled
+[2018.01.31-17.44.04:451][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.31-17.44.04:644][  0]LogOcInput: OculusInput pre-init called
+[2018.01.31-17.44.04:855][  0]LogEngine: Initializing Engine...
+[2018.01.31-17.44.04:857][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.31-17.44.05:032][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.31-17.44.05:032][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.31-17.44.05:125][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.31-17.44.05:136][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-17.44.05:155][  0]LogInit: FAudioDevice initialized.
+[2018.01.31-17.44.05:231][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB D:/Profiles/bcm2463/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.31-17.44.05:244][  0]LogInit: Texture streaming: Enabled
+[2018.01.31-17.44.05:314][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.31-17.44.05:402][  0]LogInit: Transaction tracking system initialized
+[2018.01.31-17.44.05:615][  0]BlueprintLog: New page: Editor Load
+[2018.01.31-17.44.06:229][  0]LocalizationService: Localization service is disabled
+[2018.01.31-17.44.06:748][  0]LogConsoleResponse: Display: 
+[2018.01.31-17.44.06:904][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.31-17.44.06:904][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.31-17.44.06:904][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.31-17.44.07:722][  0]LogFileCache: Scanning file cache for directory 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/' took 0.08s
+[2018.01.31-17.44.07:755][  0]SourceControl: Source control is disabled
+[2018.01.31-17.44.07:755][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.31-17.44.07:756][  0]LightingResults: New page: Lighting Build
+[2018.01.31-17.44.07:784][  0]MapCheck: New page: Map Check
+[2018.01.31-17.44.07:784][  0]LightingResults: New page: Lighting Build
+[2018.01.31-17.44.07:971][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.01.31-17.44.07:977][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.31-17.44.07:990][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.31-17.44.08:028][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37.886ms to complete.
+[2018.01.31-17.44.08:029][  0]LogFileHelpers: Loading map 'Template_Default' took 0.273
+[2018.01.31-17.44.08:161][  0]LogCollectionManager: Loaded 0 collections in 0.003320 seconds
+[2018.01.31-17.44.08:235][  0]LogFileCache: Scanning file cache for directory 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Collections/' took 0.01s
+[2018.01.31-17.44.08:235][  0]LogFileCache: Scanning file cache for directory 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Developers/bcm2463/Collections/' took 0.01s
+[2018.01.31-17.44.08:235][  0]LogFileCache: Scanning file cache for directory 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Collections/' took 0.01s
+[2018.01.31-17.44.08:235][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.31-17.44.08:242][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2363 classes and 519 folders.
+[2018.01.31-17.44.08:287][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.31-17.44.08:321][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.31-17.44.08:353][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.31-17.44.08:370][  0]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.31-17.44.08:373][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.31-17.44.08:378][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.31-17.44.08:464][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2018.01.31-17.44.08:597][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.31-17.44.08:597][  0]LogLoad: (Engine Initialization) Total time: 15.72 seconds
+[2018.01.31-17.44.08:597][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.31-17.44.08:597][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.01.31-17.44.08:597][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.01.31-17.44.08:948][  0]LogAssetRegistry: Asset discovery search completed in 9.8286 seconds
+[2018.01.31-17.44.08:949][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.31-17.44.08:949][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000031 seconds (updated 0 objects)
+[2018.01.31-17.44.08:950][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.31-17.44.08:981][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.31-17.44.09:005][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.31-17.44.09:006][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/', and we were unable to create a new request.
+[2018.01.31-17.44.09:006][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.31-17.44.09:006][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Developers/bcm2463/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.31-17.44.09:006][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.31-17.44.09:086][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.31-17.44.09:086][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Collections/', and we were unable to create a new request.
+[2018.01.31-17.44.09:086][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Developers/bcm2463/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.31-17.44.09:087][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Developers/bcm2463/Collections/', and we were unable to create a new request.
+[2018.01.31-17.44.09:087][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.01.31-17.44.09:087][  2]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Collections/', and we were unable to create a new request.
+[2018.01.31-17.45.45:581][333]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.31-17.45.46:264][333]LogAIModule: Creating AISystem for world Main
+[2018.01.31-17.45.46:286][333]Cmd: MAP LOAD FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/TestMaps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.31-17.45.46:286][333]LightingResults: New page: Lighting Build
+[2018.01.31-17.45.46:287][333]LoadErrors: New page: Loading map: Main.umap
+[2018.01.31-17.45.46:287][333]MapCheck: New page: Map Check
+[2018.01.31-17.45.46:287][333]LightingResults: New page: Lighting Build
+[2018.01.31-17.45.46:303][333]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.31-17.45.46:350][333]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.31-17.45.46:394][333]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44.34ms to complete.
+[2018.01.31-17.45.46:394][333]LogFileHelpers: Loading map 'Main' took 0.109
+[2018.01.31-17.45.47:387][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Temp)
+[2018.01.31-17.45.57:217][597]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (Cube14)
+[2018.01.31-17.46.00:118][938]LogSlate: Took 0.005474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.31-17.46.08:785][936]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.01.31-17.46.09:378][936]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2018.01.31-17.46.09:478][936]LogSlate: Took 0.004538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.31-17.47.05:861][496]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.31-17.55.07:204][343]LogEditorTransaction: Undo Move Nodes
+[2018.01.31-17.56.12:835][501]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Maps/TestMaps/Main' took 0.021
+[2018.01.31-17.56.12:842][501]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_PickupCube] ([1] browsable assets)...
+[2018.01.31-17.56.12:855][501]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube]
+[2018.01.31-17.56.12:855][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_PickupCube]
+[2018.01.31-17.56.13:038][501]LogSavePackage: Save=138.44ms
+[2018.01.31-17.56.13:038][501]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/BP_PickupCube_Auto122FD198D4C8494496BF79F91EB3E7F80.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_PickupCube_Auto1.uasset'
+[2018.01.31-17.56.13:059][501]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_PickupCube_Auto1.uasset
+[2018.01.31-17.56.13:064][501]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Content/Blueprints/NewMacroLibrary] ([1] browsable assets)...
+[2018.01.31-17.56.13:064][501]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Blueprints/NewMacroLibrary]
+[2018.01.31-17.56.13:134][501]LogSavePackage: Save=12.45ms
+[2018.01.31-17.56.13:134][501]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/NewMacroLibrary_Auto129CDE00D4F9C756B44E69AB57AB90FFD.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Blueprints/NewMacroLibrary_Auto1.uasset'
+[2018.01.31-17.56.13:154][501]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Blueprints/NewMacroLibrary_Auto1.uasset
+[2018.01.31-17.56.13:154][501]LogFileHelpers: Auto-saving content packages took 0.318
+[2018.01.31-17.56.22:645][624]LogMetaData: Removing '/Game/Content/Blueprints/PickupObjects.SKEL_PickupObjects_C' ref from Metadata '/Game/Content/Blueprints/NewMacroLibrary.PackageMetaData'
+[2018.01.31-17.56.22:645][624]LogMetaData: Removing '/Game/Content/Blueprints/PickupObjects.PickupObjects_C' ref from Metadata '/Game/Content/Blueprints/NewMacroLibrary.PackageMetaData'
+[2018.01.31-17.56.22:661][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/PickupObjects" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/PickupObjects.uasset" SILENT=true
+[2018.01.31-17.56.22:699][624]LogSavePackage: Save=13.77ms
+[2018.01.31-17.56.22:699][624]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/PickupObjects64A96FA74549455108B0849C8CD5DC26.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/PickupObjects.uasset'
+[2018.01.31-17.56.22:727][624]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/PickupObjects.uasset
+[2018.01.31-17.56.33:762][912]LogMetaData: Removing '/Game/Content/Blueprints/PickupActors.PickupActors_C' ref from Metadata '/Game/Content/Blueprints/PickupObjects.PackageMetaData'
+[2018.01.31-17.56.33:762][912]LogMetaData: Removing '/Game/Content/Blueprints/PickupActors.SKEL_PickupActors_C' ref from Metadata '/Game/Content/Blueprints/PickupObjects.PackageMetaData'
+[2018.01.31-17.56.33:776][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/PickupActors" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/PickupActors.uasset" SILENT=true
+[2018.01.31-17.56.33:857][912]LogSavePackage: Save=13.25ms
+[2018.01.31-17.56.33:857][912]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/PickupActors2CFA53CC4532ADEF4676F6822B1B987C.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/PickupActors.uasset'
+[2018.01.31-17.56.33:885][912]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/PickupActors.uasset
+[2018.01.31-17.58.16:663][425]LogBlueprint: Warning: [PickupObjects] 'StaticMeshComponent' variable not found. Base class was probably changed. /Game/Content/Blueprints/Dev/PickupObjects.PickupObjects
+[2018.01.31-17.58.16:664][425]LogBlueprint: Warning: [PickupObjects] 'StaticMeshComponent' variable not found. Base class was probably changed. /Game/Content/Blueprints/Dev/PickupObjects.PickupObjects
+[2018.01.31-17.59.10:868][365]LogRenderer: Reallocating scene render targets to support 1056x872 Format 10 NumSamples 1 (Frame:1).
+[2018.01.31-17.59.41:250][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/Dev/PickupObjects" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/PickupObjects.uasset" SILENT=true
+[2018.01.31-17.59.41:352][659]LogSavePackage: Save=69.79ms
+[2018.01.31-17.59.41:352][659]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/PickupObjects25DA891845F2A8C50ADA2282DC1013EF.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/PickupObjects.uasset'
+[2018.01.31-17.59.41:381][659]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/PickupObjects.uasset
+[2018.01.31-17.59.42:487][781]BlueprintLog: New page: Compile PickupObjects
+[2018.01.31-17.59.42:493][781]LogBlueprint: Warning: [Compiler PickupObjects] Could not find a variable named "StaticMeshComponent" in 'PickupObjects_C'.
+Make sure 'PickupObjects_C' has been compiled for  Get StaticMeshComponent
+[2018.01.31-17.59.42:493][781]LogBlueprint: Warning: [Compiler PickupObjects] Could not find a variable named "StaticMeshComponent" in 'PickupObjects_C'.
+Make sure 'PickupObjects_C' has been compiled for  Get StaticMeshComponent
+[2018.01.31-17.59.42:493][781]LogBlueprint: Error: [Compiler PickupObjects] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2018.01.31-17.59.42:493][781]LogBlueprint: Error: [Compiler PickupObjects] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2018.01.31-17.59.42:494][781]LogBlueprint: Error: [Compiler PickupObjects] The property associated with  Static Mesh Component  could not be found
+[2018.01.31-17.59.42:494][781]LogBlueprint: Error: [Compiler PickupObjects] The property associated with  Static Mesh Component  could not be found
+[2018.01.31-17.59.42:519][781]LogBlueprint: Warning: [Compiler PickupObjects] [0949.67] Compile of PickupObjects failed. 4 Fatal Issue(s) 2 Warning(s) [in 31 ms] (/Game/Content/Blueprints/Dev/PickupObjects.PickupObjects)
+[2018.01.31-18.00.01:456][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/Dev/PickupObjects" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/PickupObjects.uasset" SILENT=true
+[2018.01.31-18.00.01:585][828]LogSavePackage: Save=77.79ms
+[2018.01.31-18.00.01:585][828]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/PickupObjectsBAEE803546947AE9D23FCD84A823FB86.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/PickupObjects.uasset'
+[2018.01.31-18.00.01:622][828]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/PickupObjects.uasset
+[2018.01.31-18.00.09:489][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Temp)
+[2018.01.31-18.00.46:199][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-18.00.47:163][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Temp)
+[2018.01.31-18.00.52:875][816]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.31-18.00.52:878][816]LogPlayLevel: [PlayLevel] Compiling BP_PickupCube before play...
+[2018.01.31-18.00.53:876][816]LogPlayLevel: PlayLevel: Blueprint regeneration took 1001 ms (1 blueprints)
+[2018.01.31-18.01.26:252][724]LogSlate: Took 0.004045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.31-18.01.39:557][102]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_DetachFromActor' [Element not found.]
+[2018.01.31-18.01.42:105][358]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'AActor::K2_DetachFromActor' [Element not found.]
+[2018.01.31-18.04.16:267][542]BlueprintLog: New page: Compile PickupObjects
+[2018.01.31-18.04.16:273][542]LogBlueprint: Warning: [Compiler PickupObjects] Could not find a variable named "StaticMeshComponent" in 'PickupObjects_C'.
+Make sure 'PickupObjects_C' has been compiled for  Get StaticMeshComponent
+[2018.01.31-18.04.16:273][542]LogBlueprint: Warning: [Compiler PickupObjects] Could not find a variable named "StaticMeshComponent" in 'PickupObjects_C'.
+Make sure 'PickupObjects_C' has been compiled for  Get StaticMeshComponent
+[2018.01.31-18.04.16:273][542]LogBlueprint: Error: [Compiler PickupObjects] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2018.01.31-18.04.16:273][542]LogBlueprint: Error: [Compiler PickupObjects] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2018.01.31-18.04.16:273][542]LogBlueprint: Error: [Compiler PickupObjects] The property associated with  Static Mesh Component  could not be found
+[2018.01.31-18.04.16:273][542]LogBlueprint: Error: [Compiler PickupObjects] The property associated with  Static Mesh Component  could not be found
+[2018.01.31-18.04.16:366][542]LogBlueprint: Warning: [Compiler PickupObjects] [1223.53] Compile of PickupObjects failed. 4 Fatal Issue(s) 2 Warning(s) [in 99 ms] (/Game/Content/Blueprints/Dev/PickupObjects.PickupObjects)
+[2018.01.31-18.06.14:446][ 98]LogSavePackage: Save=494.96ms
+[2018.01.31-18.06.14:446][ 98]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Main_Auto20C8DCAB8444FA53CC42462982262D94A.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto2.umap'
+[2018.01.31-18.06.14:467][ 98]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto2.umap
+[2018.01.31-18.06.14:474][ 98]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Maps/TestMaps/Main' took 0.633
+[2018.01.31-18.06.14:474][ 98]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.633
+[2018.01.31-18.06.14:481][ 98]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_PickupCube] ([1] browsable assets)...
+[2018.01.31-18.06.14:495][ 98]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube]
+[2018.01.31-18.06.14:495][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_PickupCube]
+[2018.01.31-18.06.14:671][ 98]LogSavePackage: Save=129.81ms
+[2018.01.31-18.06.14:671][ 98]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/BP_PickupCube_Auto27CB44D1D48BE59A3F46581BD3E9A1972.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_PickupCube_Auto2.uasset'
+[2018.01.31-18.06.14:692][ 98]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_PickupCube_Auto2.uasset
+[2018.01.31-18.06.14:699][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Content/Blueprints/Dev/PickupObjects] ([1] browsable assets)...
+[2018.01.31-18.06.14:699][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Blueprints/Dev/PickupObjects]
+[2018.01.31-18.06.14:828][ 98]LogSavePackage: Save=82.53ms
+[2018.01.31-18.06.14:828][ 98]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/PickupObjects_Auto22A2C7AAC49F655024E60E7A898E14CB6.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Blueprints/Dev/PickupObjects_Auto2.uasset'
+[2018.01.31-18.06.14:852][ 98]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Blueprints/Dev/PickupObjects_Auto2.uasset
+[2018.01.31-18.06.14:852][ 98]LogFileHelpers: Auto-saving content packages took 0.377
+[2018.01.31-18.09.32:748][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-18.09.33:406][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Temp)
+[2018.01.31-18.10.13:702][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-18.10.14:383][747]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-18.10.20:108][426]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.31-18.10.20:126][426]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.01.31-18.10.44:992][400]LogActorFactory: Actor Factory created Rock_Temp
+[2018.01.31-18.10.46:395][568]LogActorFactory: Actor Factory created Rock_Temp
+[2018.01.31-18.11.21:156][672]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.31-18.13.05:309][202]LogEditorTransaction: Undo Move Node
+[2018.01.31-18.13.51:006][ 20]BlueprintLog: New page: Compile Rock_Temp_Blueprint
+[2018.01.31-18.13.54:216][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/Dev/Rock_Temp_Blueprint" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset" SILENT=true
+[2018.01.31-18.13.54:373][300]LogSavePackage: Save=124.87ms
+[2018.01.31-18.13.54:373][300]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Rock_Temp_Blueprint2F31418D497502D84DBB5098FFFFE902.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset'
+[2018.01.31-18.13.54:402][300]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset
+[2018.01.31-18.16.51:934][206]LogEditorTransaction: Undo Delete current selection
+[2018.01.31-18.17.17:206][946]LogEditorTransaction: Undo Delete current selection
+[2018.01.31-18.17.17:549][978]LogEditorTransaction: Undo Rename Node
+[2018.01.31-18.17.17:923][ 16]LogEditorTransaction: Undo Add Node
+[2018.01.31-18.17.18:674][102]LogEditorTransaction: Undo Delete current selection
+[2018.01.31-18.17.46:930][898]LogSavePackage: Save=462.87ms
+[2018.01.31-18.17.46:930][898]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Main_Auto38011AA4949B3E5D743FA1F9C6F325584.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto3.umap'
+[2018.01.31-18.17.46:951][898]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto3.umap
+[2018.01.31-18.17.46:958][898]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Maps/TestMaps/Main' took 0.616
+[2018.01.31-18.17.46:958][898]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.616
+[2018.01.31-18.17.46:965][898]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_PickupCube] ([1] browsable assets)...
+[2018.01.31-18.17.46:986][898]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube]
+[2018.01.31-18.17.46:986][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_PickupCube]
+[2018.01.31-18.17.47:160][898]LogSavePackage: Save=127.71ms
+[2018.01.31-18.17.47:160][898]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/BP_PickupCube_Auto331A67BBC46740B28EC6EB686793CF58E.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_PickupCube_Auto3.uasset'
+[2018.01.31-18.17.47:180][898]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_PickupCube_Auto3.uasset
+[2018.01.31-18.17.47:185][898]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Content/Blueprints/Dev/Rock_Temp_Blueprint] ([1] browsable assets)...
+[2018.01.31-18.17.47:205][898]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Content/Blueprints/Dev/Rock_Temp_Blueprint.Rock_Temp_Blueprint]
+[2018.01.31-18.17.47:205][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Blueprints/Dev/Rock_Temp_Blueprint]
+[2018.01.31-18.17.47:396][898]LogSavePackage: Save=144.21ms
+[2018.01.31-18.17.47:396][898]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Rock_Temp_Blueprint_Auto319A72E884C54C0A18FDA5F9DF6A7E9F5.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Blueprints/Dev/Rock_Temp_Blueprint_Auto3.uasset'
+[2018.01.31-18.17.47:421][898]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Blueprints/Dev/Rock_Temp_Blueprint_Auto3.uasset
+[2018.01.31-18.17.47:421][898]LogFileHelpers: Auto-saving content packages took 0.462
+[2018.01.31-18.21.01:679][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/Dev/Rock_Temp_Blueprint" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset" SILENT=true
+[2018.01.31-18.21.01:838][ 50]LogSavePackage: Save=118.49ms
+[2018.01.31-18.21.01:838][ 50]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Rock_Temp_Blueprint504699C94758BAF5A07618A8F0A0166D.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset'
+[2018.01.31-18.21.01:884][ 50]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset
+[2018.01.31-18.21.46:062][921]LogEditorViewport: Clicking on Actor (LMB): Rock_Temp_Blueprint_C (Rock_Temp_Blueprint)
+[2018.01.31-18.22.06:141][304]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (Cube12)
+[2018.01.31-18.22.06:510][343]LogEditorViewport: Clicking on Actor (context menu): BP_PickupCube_C (Cube12)
+[2018.01.31-18.23.22:419][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/Dev/Rock_Blueprint" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Blueprint.uasset" SILENT=true
+[2018.01.31-18.23.22:529][242]LogSavePackage: Save=79.41ms
+[2018.01.31-18.23.22:530][242]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Rock_BlueprintA14E5EA54D64F004EFC2759751FF3A1C.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Blueprint.uasset'
+[2018.01.31-18.23.22:557][242]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Blueprint.uasset
+[2018.01.31-18.25.02:996][992]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.31-18.25.03:013][992]LogPlayLevel: [PlayLevel] Compiling BP_PickupCube before play...
+[2018.01.31-18.25.03:016][992]LogPlayLevel: [PlayLevel]   Compiling Rock_Blueprint as a dependent...
+[2018.01.31-18.25.04:137][992]LogPlayLevel: [PlayLevel] Compiling Rock_Temp_Blueprint before play...
+[2018.01.31-18.25.04:450][992]LogPlayLevel: PlayLevel: Blueprint regeneration took 1453 ms (3 blueprints)
+[2018.01.31-18.25.04:451][992]PIE: New page: SIE session: Main (Jan 31, 2018, 8:25:04 AM)
+[2018.01.31-18.25.04:451][992]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.01.31-18.25.04:455][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004297s)
+[2018.01.31-18.25.04:455][992]LogAIModule: Creating AISystem for world Main
+[2018.01.31-18.25.04:456][992]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2018.01.31-18.25.04:456][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.005267s)
+[2018.01.31-18.25.04:482][992]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-18.25.04:489][992]LogInit: FAudioDevice initialized.
+[2018.01.31-18.25.04:532][992]LogLoad: Game class is 'GameModeBase'
+[2018.01.31-18.25.04:534][992]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.01.31-13.25.04
+[2018.01.31-18.25.04:534][992]LogWorld: Bringing up level for play took: 0.001055
+[2018.01.31-18.25.04:587][992]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 11 classes and 0 folders.
+[2018.01.31-18.25.04:590][992]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main 1.778
+[2018.01.31-18.25.34:036][321]LogEditorViewport: Clicking on Actor (LMB): Rock_Blueprint_C (Rock_Blueprint)
+[2018.01.31-18.25.46:651][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-18.25.46:651][823]PIE: New page: SIE session: Main (Jan 31, 2018, 8:25:46 AM)
+[2018.01.31-18.25.46:651][823]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.01.31-18.25.46:656][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004199s)
+[2018.01.31-18.25.46:656][823]LogAIModule: Creating AISystem for world Main
+[2018.01.31-18.25.46:656][823]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2018.01.31-18.25.46:656][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.004998s)
+[2018.01.31-18.25.46:683][823]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-18.25.46:689][823]LogInit: FAudioDevice initialized.
+[2018.01.31-18.25.46:717][823]LogLoad: Game class is 'GameModeBase'
+[2018.01.31-18.25.46:718][823]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.01.31-13.25.46
+[2018.01.31-18.25.46:719][823]LogWorld: Bringing up level for play took: 0.001080
+[2018.01.31-18.25.46:721][823]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main -0.09
+[2018.01.31-18.25.51:424][353]LogEditorViewport: Clicking on Actor (LMB): Rock_Blueprint_C (Rock_Blueprint)
+[2018.01.31-18.28.20:078][ 88]LogSavePackage: Save=474.49ms
+[2018.01.31-18.28.20:078][ 88]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Main_Auto4AE7EE7F54F56BD8044CF4CAD249132DF.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto4.umap'
+[2018.01.31-18.28.20:101][ 88]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto4.umap
+[2018.01.31-18.28.20:108][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Maps/TestMaps/Main' took 0.629
+[2018.01.31-18.28.20:108][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.629
+[2018.01.31-18.28.20:115][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_PickupCube] ([1] browsable assets)...
+[2018.01.31-18.28.20:136][ 88]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube]
+[2018.01.31-18.28.20:136][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_PickupCube]
+[2018.01.31-18.28.20:328][ 88]LogSavePackage: Save=143.35ms
+[2018.01.31-18.28.20:329][ 88]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/BP_PickupCube_Auto4DD6A93C34EBB96CA516BE29F3CA62B1D.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_PickupCube_Auto4.uasset'
+[2018.01.31-18.28.20:350][ 88]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_PickupCube_Auto4.uasset
+[2018.01.31-18.28.20:350][ 88]LogFileHelpers: Auto-saving content packages took 0.242
+[2018.01.31-18.55.36:935][608]LogTabManager: Warning: Unable to insert tab 'Document'.
+[2018.01.31-18.55.36:935][608]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'Document'
+[2018.01.31-19.05.50:914][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-19.05.56:773][737]LogEditorViewport: Clicking on Actor (LMB): Rock_Blueprint_C (Rock_Blueprint)
+[2018.01.31-19.06.04:091][597]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-19.06.33:403][ 55]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-19.06.54:402][524]LogEditorViewport: Clicking on Actor (LMB): Rock_Temp_Blueprint_C (Rock_Temp_Blueprint)
+[2018.01.31-19.06.55:307][621]LogEditorViewport: Clicking on Actor (LMB): Rock_Blueprint_C (Rock_Blueprint)
+[2018.01.31-19.06.55:940][692]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-19.06.57:024][818]LogEditorViewport: Clicking on Actor (LMB): Rock_Blueprint_C (Rock_Blueprint)
+[2018.01.31-19.06.57:835][910]LogEditorViewport: Clicking on Actor (LMB): Rock_Temp_Blueprint_C (Rock_Temp_Blueprint)
+[2018.01.31-19.07.19:394][254]LogEditorViewport: Clicking on Actor (LMB): Rock_Blueprint_C (Rock_Blueprint)
+[2018.01.31-19.08.55:080][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-19.08.55:513][787]LogEditorViewport: Clicking on Actor (LMB): Rock_Temp_Blueprint_C (Rock_Temp_Blueprint)
+[2018.01.31-19.08.56:404][889]LogEditorViewport: Clicking on Actor (LMB): Rock_Blueprint_C (Rock_Blueprint)
+[2018.01.31-19.09.02:919][642]LogEditorViewport: Clicking on Actor (LMB): Rock_Blueprint_C (Rock_Blueprint)
+[2018.01.31-19.09.10:649][558]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-19.09.11:386][642]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-19.10.02:060][675]LogEditorViewport: Clicking on Actor (LMB): Rock_Temp_Blueprint_C (Rock_Temp_Blueprint)
+[2018.01.31-19.10.05:418][ 47]LogEditorViewport: Clicking on Actor (LMB): Rock_Blueprint_C (Rock_Blueprint)
+[2018.01.31-19.10.10:071][572]LogEditorViewport: Clicking on Actor (LMB): Rock_Temp_Blueprint_C (Rock_Temp_Blueprint)
+[2018.01.31-19.10.10:884][656]LogEditorViewport: Clicking on Actor (LMB): Rock_Blueprint_C (Rock_Blueprint)
+[2018.01.31-19.10.14:865][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-19.10.15:419][148]LogEditorViewport: Clicking on Actor (LMB): Rock_Blueprint_C (Rock_Blueprint)
+[2018.01.31-19.10.18:618][487]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-19.10.21:404][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2018.01.31-19.10.31:033][931]LogTemp: Repeating last play command: Simulate
+[2018.01.31-19.10.31:054][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-19.10.31:055][931]PIE: New page: SIE session: Main (Jan 31, 2018, 9:10:31 AM)
+[2018.01.31-19.10.31:055][931]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.01.31-19.10.31:059][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004701s)
+[2018.01.31-19.10.31:060][931]LogAIModule: Creating AISystem for world Main
+[2018.01.31-19.10.31:060][931]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2018.01.31-19.10.31:061][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.006036s)
+[2018.01.31-19.10.31:089][931]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-19.10.31:096][931]LogInit: FAudioDevice initialized.
+[2018.01.31-19.10.31:130][931]LogLoad: Game class is 'GameModeBase'
+[2018.01.31-19.10.31:131][931]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.01.31-14.10.31
+[2018.01.31-19.10.31:131][931]LogWorld: Bringing up level for play took: 0.001145
+[2018.01.31-19.10.31:134][931]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main 0.398
+[2018.01.31-19.10.33:279][173]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-19.10.34:170][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2018.01.31-19.10.44:001][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-19.10.44:001][392]PIE: New page: SIE session: Main (Jan 31, 2018, 9:10:44 AM)
+[2018.01.31-19.10.44:001][392]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.01.31-19.10.44:006][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004674s)
+[2018.01.31-19.10.44:006][392]LogAIModule: Creating AISystem for world Main
+[2018.01.31-19.10.44:006][392]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2018.01.31-19.10.44:006][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.005503s)
+[2018.01.31-19.10.44:033][392]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-19.10.44:039][392]LogInit: FAudioDevice initialized.
+[2018.01.31-19.10.44:072][392]LogLoad: Game class is 'GameModeBase'
+[2018.01.31-19.10.44:073][392]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.01.31-14.10.44
+[2018.01.31-19.10.44:073][392]LogWorld: Bringing up level for play took: 0.001038
+[2018.01.31-19.10.44:076][392]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main -0.66
+[2018.01.31-19.10.59:064][132]LogTemp: Repeating last play command: Simulate
+[2018.01.31-19.10.59:081][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.31-19.10.59:081][132]PIE: New page: SIE session: Main (Jan 31, 2018, 9:10:59 AM)
+[2018.01.31-19.10.59:081][132]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.01.31-19.10.59:085][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004100s)
+[2018.01.31-19.10.59:085][132]LogAIModule: Creating AISystem for world Main
+[2018.01.31-19.10.59:086][132]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2018.01.31-19.10.59:086][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.004855s)
+[2018.01.31-19.10.59:109][132]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.31-19.10.59:115][132]LogInit: FAudioDevice initialized.
+[2018.01.31-19.10.59:147][132]LogLoad: Game class is 'GameModeBase'
+[2018.01.31-19.10.59:148][132]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.01.31-14.10.59
+[2018.01.31-19.10.59:148][132]LogWorld: Bringing up level for play took: 0.001034
+[2018.01.31-19.10.59:151][132]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main 0.415
+[2018.01.31-19.11.07:731][894]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-19.11.23:381][729]MapCheck: New page: Map Check
+[2018.01.31-19.11.23:395][729]Cmd: MAP REBUILD ALLVISIBLE
+[2018.01.31-19.11.23:395][729]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.01.31-19.11.23:445][729]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.01.31-19.11.23:452][729]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.01.31-19.11.23:457][729]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.01.31-19.11.23:464][729]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.01.31-19.11.23:472][729]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.01.31-19.11.23:479][729]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.01.31-19.11.24:112][729]TextureStreamingBuild: Display: Compiling optional shaders took 0.674 seconds.
+[2018.01.31-19.11.24:116][729]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2018.01.31-19.11.24:124][729]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2018.01.31-19.11.24:145][729]LightingResults: New page: Lighting Build - Jan 31, 2018, 9:11:24 AM
+[2018.01.31-19.11.24:231][729]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.01.31-19.11.24:370][729]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.01.31-19.11.24:386][729]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.01.31-19.11.25:413][729]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.01.31-19.11.25:413][729]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7064
+[2018.01.31-19.11.26:005][729]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.01.31-19.11.26:005][729]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.01.31-19.11.26:005][729]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.01.31-19.11.26:005][729]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.01.31-19.11.26:005][729]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.01.31-19.11.26:005][729]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.01.31-19.11.26:136][729]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.01.31-19.11.26:137][729]MapCheck: New page: Main - Jan 31, 2018, 9:11:26 AM
+[2018.01.31-19.11.26:480][729]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 343.448ms to complete.
+[2018.01.31-19.11.26:501][729]LogEditorBuildUtils: Build time 0:03
+[2018.01.31-19.11.28:027][818]Job is a success!
+[2018.01.31-19.11.28:107][819]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2018.01.31-19.11.28:107][819]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.01.31-19.11.28:107][819]LogVolumetricLightmapImport:      BrickData 40x5x5 = 0.0Mb
+[2018.01.31-19.11.28:107][819]LogVolumetricLightmapImport:      Bricks at Level
+[2018.01.31-19.11.28:107][819]LogVolumetricLightmapImport:          0: 12.5% covering 100.0% of volume
+[2018.01.31-19.11.28:107][819]LogVolumetricLightmapImport:          1: 12.5% covering 1.6% of volume
+[2018.01.31-19.11.28:107][819]LogVolumetricLightmapImport:          2: 75.0% covering 0.1% of volume
+[2018.01.31-19.11.28:195][819]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.01.31-19.11.28:195][819]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.01.31-19.11.28:195][819]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.01.31-19.11.28:195][819]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.01.31-19.11.28:195][819]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X128)
+[2018.01.31-19.11.28:195][819]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.01.31-19.11.28:221][819]Lightmass on IGM2350-11: 955 ms total, 172 ms importing, 24 ms setup, 184 ms photons, 545 ms processing, 0 ms extra exporting [6/6 mappings]. Threads: 2.14 sec total, 547 ms processing.
+[2018.01.31-19.11.28:246][819]LogStaticLightingSystem: Illumination: 4.08 sec (56 ms encoding lightmaps, 20 ms encoding shadowmaps)
+[2018.01.31-19.11.28:246][819]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.01.31-19.11.28:246][819]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.01.31-19.11.29:009][819]DumpUnbuiltLightIteractions
+[2018.01.31-19.11.29:009][819]Lights with unbuilt interactions: 0
+[2018.01.31-19.11.29:009][819]
+[2018.01.31-19.11.29:009][819]Primitives with unbuilt interactions: 0
+[2018.01.31-19.11.29:052][820]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.01.31-19.11.29:052][820]MapCheck: New page: Main - Jan 31, 2018, 9:11:29 AM
+[2018.01.31-19.11.29:111][820]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.803ms to complete.
+[2018.01.31-19.11.29:229][834]LogEditorViewport: Clicking on Actor (context menu): Rock_Temp_Blueprint_C (Rock_Temp_Blueprint)
+[2018.01.31-19.11.30:036][923]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-19.11.31:670][ 99]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (Cube7)
+[2018.01.31-19.11.32:754][214]Cmd: EDIT COPY
+[2018.01.31-19.11.33:082][253]Cmd: EDIT PASTE
+[2018.01.31-19.11.35:499][536]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-19.11.37:376][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2018.01.31-19.11.37:928][816]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (Cube12)
+[2018.01.31-19.11.51:010][345]LogEditorViewport: Clicking on Actor (LMB): Rock_Blueprint_C (Rock_Blueprint)
+[2018.01.31-19.12.23:393][131]LogSavePackage: Save=575.82ms
+[2018.01.31-19.12.23:393][131]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Main_Auto5FF6AB6DD4CDB1DB5D24A1CB3F0270CBA.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto5.umap'
+[2018.01.31-19.12.23:415][131]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto5.umap
+[2018.01.31-19.12.23:421][131]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Maps/TestMaps/Main' took 0.736
+[2018.01.31-19.12.23:421][131]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.736
+[2018.01.31-19.12.23:437][131]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Content/Maps/TestMaps/Main_BuiltData] ([1] browsable assets)...
+[2018.01.31-19.12.23:437][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Maps/TestMaps/Main_BuiltData]
+[2018.01.31-19.12.23:614][131]LogSavePackage: Save=97.34ms
+[2018.01.31-19.12.23:614][131]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Main_BuiltData_Auto536E602934EC77785EBCDDF82280C7408.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_BuiltData_Auto5.uasset'
+[2018.01.31-19.12.23:636][131]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_BuiltData_Auto5.uasset
+[2018.01.31-19.12.23:636][131]LogFileHelpers: Auto-saving content packages took 0.214
+[2018.01.31-19.12.47:574][945]LogEditorViewport: Clicking on Actor (LMB): Rock_Blueprint_C (Rock_Blueprint)
+[2018.01.31-19.12.59:460][307]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.31-19.13.19:493][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-19.13.19:965][703]LogEditorViewport: Clicking on Actor (LMB): Rock_Temp_Blueprint_C (Rock_Temp_Blueprint)
+[2018.01.31-19.13.27:598][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-19.13.32:562][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Maps/TestMaps/Main" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/TestMaps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.31-19.13.33:222][189]LogSavePackage: Save=592.14ms
+[2018.01.31-19.13.33:222][189]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/MainD4C5931D44CAD16797C1B5B154D1BB88.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/TestMaps/Main.umap'
+[2018.01.31-19.13.33:274][189]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/TestMaps/Main.umap
+[2018.01.31-19.13.33:337][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Maps/TestMaps/Main_BuiltData" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/TestMaps/Main_BuiltData.uasset" SILENT=true
+[2018.01.31-19.13.33:505][189]LogSavePackage: Save=103.93ms
+[2018.01.31-19.13.33:505][189]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Main_BuiltData81F0505C4300496A4685988F2AFC4339.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/TestMaps/Main_BuiltData.uasset'
+[2018.01.31-19.13.33:559][189]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/TestMaps/Main_BuiltData.uasset
+[2018.01.31-19.16.06:362][  4]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.31-19.17.14:964][664]BlueprintLog: New page: Compile Rock_Temp_Blueprint
+[2018.01.31-19.17.57:781][892]BlueprintLog: New page: Compile Rock_Temp_Blueprint
+[2018.01.31-19.18.00:503][129]BlueprintLog: New page: Compile Rock_Temp_Blueprint
+[2018.01.31-19.18.02:070][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/Dev/Rock_Temp_Blueprint" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset" SILENT=true
+[2018.01.31-19.18.02:271][242]LogSavePackage: Save=140.64ms
+[2018.01.31-19.18.02:271][242]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Rock_Temp_BlueprintB9AC44EB45EB19AC8DBF15BD821DC9DB.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset'
+[2018.01.31-19.18.02:319][242]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset
+[2018.01.31-19.18.04:165][412]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.31-19.18.04:750][463]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.31-19.18.08:033][845]LogEditorActor: Deleted Actor: Rock_Blueprint_C
+[2018.01.31-19.18.08:052][845]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.01.31-19.18.19:106][512]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-19.18.22:684][934]LogEditorActor: Deleted Actor: Rock_Temp_Blueprint_C
+[2018.01.31-19.18.22:703][934]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.01.31-19.18.30:436][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2018.01.31-19.18.31:109][930]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-19.18.31:550][979]LogEditorViewport: Clicking on Actor (LMB): Rock_Temp_Blueprint_C (Rock_Temp_Blueprint)
+[2018.01.31-19.18.39:407][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Maps/TestMaps/Main" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/TestMaps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.31-19.18.40:090][872]LogSavePackage: Save=569.29ms
+[2018.01.31-19.18.40:090][872]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Main468D7DFD434E2D42AE9C3193AC07A32E.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/TestMaps/Main.umap'
+[2018.01.31-19.18.40:141][872]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/TestMaps/Main.umap
+[2018.01.31-19.18.40:183][872]LogFileHelpers: Saving map 'Main' took 1.102
+[2018.01.31-19.18.40:185][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Blueprints/BP_PickupCube" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset" SILENT=true
+[2018.01.31-19.18.40:361][872]LogSavePackage: Save=131.64ms
+[2018.01.31-19.18.40:361][872]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/BP_PickupCube878BF41D4FC0CBF093E900B96B6BC735.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset'
+[2018.01.31-19.18.40:408][872]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/VirtualRealityBP/Blueprints/BP_PickupCube.uasset
+[2018.01.31-19.22.53:419][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-19.23.06:285][588]LogActorFactory: Actor Factory created Rock_Temp
+[2018.01.31-19.23.06:574][622]LogActorFactory: Actor Factory created Rock_Temp
+[2018.01.31-19.23.08:120][801]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.31-19.23.32:402][711]LogEditorViewport: Clicking on Actor (LMB): Rock_Temp_Blueprint_C (Rock_Temp_Blueprint)
+[2018.01.31-19.23.37:558][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.31-19.23.37:576][321]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.01.31-19.23.58:002][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-19.23.59:425][938]LogEditorViewport: Clicking on Actor (LMB): Rock_Temp_Blueprint_C (Rock_Temp_Blueprint)
+[2018.01.31-19.23.59:872][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.31-19.29.30:201][845]LogSavePackage: Save=545.68ms
+[2018.01.31-19.29.30:201][845]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Main_Auto6B2CB84FA47DC1E1A2D9F0C88A21986C4.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto6.umap'
+[2018.01.31-19.29.30:222][845]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto6.umap
+[2018.01.31-19.29.30:227][845]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Maps/TestMaps/Main' took 0.697
+[2018.01.31-19.29.30:227][845]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.697
+[2018.01.31-19.43.40:504][115]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.01.31-19.54.09:136][176]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Profiles/bcm2463/Downloads/Stick_Temp.fbx)
+[2018.01.31-19.54.09:159][176]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.01.31-19.54.09:159][176]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.01.31-19.54.09:159][176]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.01.31-19.54.09:159][176]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.01.31-19.54.09:159][176]LogFbx: ItemName: Material, ItemCount : 1
+[2018.01.31-19.54.09:159][176]LogFbx: ItemName: Model, ItemCount : 1
+[2018.01.31-19.54.09:159][176]LogFbx: ItemName: CollectionExclusive, ItemCount : 1
+[2018.01.31-19.54.09:165][176]LogFbx: Loading FBX Scene from D:/Profiles/bcm2463/Downloads/Stick_Temp.fbx
+[2018.01.31-19.54.09:173][176]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.31-19.54.25:027][176]LogFbx: Loading FBX Scene from D:/Profiles/bcm2463/Downloads/Stick_Temp.fbx
+[2018.01.31-19.54.25:032][176]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.31-19.54.25:037][176]LogLinker: Can't find file '/Game/Content/Meshes/Dev/lambert1'
+[2018.01.31-19.54.25:037][176]LogLinker: Can't find file '/Game/Content/Meshes/Dev/lambert1'
+[2018.01.31-19.54.25:074][176]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.01.31-19.54.25:092][176]LogFbx: Warning: Triangulating static mesh Stick
+[2018.01.31-19.54.25:104][176]LogStaticMesh: Building static mesh Stick_Temp...
+[2018.01.31-19.54.25:108][176]LogStaticMesh: Built static mesh [0.00s] /Game/Content/Meshes/Dev/Stick_Temp.Stick_Temp
+[2018.01.31-19.54.27:968][420]LogActorFactory: Actor Factory created Stick_Temp
+[2018.01.31-19.54.28:687][488]LogActorFactory: Actor Factory created Stick_Temp
+[2018.01.31-19.54.43:941][187]LogSavePackage: Save=553.17ms
+[2018.01.31-19.54.43:941][187]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Main_Auto7F89862ED4D57D87DBD93A09FE53724D5.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto7.umap'
+[2018.01.31-19.54.43:962][187]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto7.umap
+[2018.01.31-19.54.43:967][187]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Maps/TestMaps/Main' took 0.702
+[2018.01.31-19.54.43:967][187]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.702
+[2018.01.31-19.54.43:974][187]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Content/Meshes/Dev/Stick_Temp] ([1] browsable assets)...
+[2018.01.31-19.54.43:994][187]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Content/Meshes/Dev/Stick_Temp.Stick_Temp]
+[2018.01.31-19.54.43:994][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Meshes/Dev/Stick_Temp]
+[2018.01.31-19.54.44:091][187]LogSavePackage: Save=71.38ms
+[2018.01.31-19.54.44:091][187]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Stick_Temp_Auto7071A4F9343223A6D487680AAA361143E.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Meshes/Dev/Stick_Temp_Auto7.uasset'
+[2018.01.31-19.54.44:112][187]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Meshes/Dev/Stick_Temp_Auto7.uasset
+[2018.01.31-19.54.44:117][187]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Content/Meshes/Dev/lambert1] ([1] browsable assets)...
+[2018.01.31-19.54.44:137][187]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Content/Meshes/Dev/lambert1.lambert1]
+[2018.01.31-19.54.44:137][187]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Meshes/Dev/lambert1]
+[2018.01.31-19.54.44:216][187]LogSavePackage: Save=26.21ms
+[2018.01.31-19.54.44:216][187]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/lambert1_Auto7C9A89F8D4B94B5A23AFA0FB0D6AAE974.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Meshes/Dev/lambert1_Auto7.uasset'
+[2018.01.31-19.54.44:237][187]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Autosaves/Game/Content/Meshes/Dev/lambert1_Auto7.uasset
+[2018.01.31-19.54.44:237][187]LogFileHelpers: Auto-saving content packages took 0.269
+[2018.01.31-19.54.56:686][301]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.31-19.54.56:706][301]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.01.31-19.54.59:211][539]LogRenderer: Reallocating scene render targets to support 1252x892 Format 10 NumSamples 1 (Frame:1).
+[2018.01.31-19.55.08:131][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Meshes/Dev/Stick_Temp" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Meshes/Dev/Stick_Temp.uasset" SILENT=true
+[2018.01.31-19.55.08:235][541]LogSavePackage: Save=71.89ms
+[2018.01.31-19.55.08:235][541]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Stick_Temp4B42162B4C995019A323C5809ED57957.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Meshes/Dev/Stick_Temp.uasset'
+[2018.01.31-19.55.08:260][541]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Meshes/Dev/Stick_Temp.uasset
+[2018.01.31-19.55.31:774][158]LogEditorActor: Deleted Actor: Rock_Temp_Blueprint_C
+[2018.01.31-19.55.31:794][158]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.01.31-19.55.51:021][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/Dev/Rock_Temp_Blueprint" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset" SILENT=true
+[2018.01.31-19.55.51:221][221]LogSavePackage: Save=143.83ms
+[2018.01.31-19.55.51:221][221]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Rock_Temp_Blueprint3028F6C94EEE802B38B29E8CB3EBCA2D.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset'
+[2018.01.31-19.55.51:265][221]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset
+[2018.01.31-19.56.21:762][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/Dev/Rock_Temp_Blueprint" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset" SILENT=true
+[2018.01.31-19.56.21:972][513]LogSavePackage: Save=137.73ms
+[2018.01.31-19.56.21:973][513]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Rock_Temp_BlueprintD53CF5574AA8F558FF6605A27511C354.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset'
+[2018.01.31-19.56.22:015][513]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset
+[2018.01.31-19.56.23:027][609]BlueprintLog: New page: Compile Rock_Temp_Blueprint
+[2018.01.31-19.56.47:970][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Meshes/Dev/Rock" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Meshes/Dev/Rock.uasset" SILENT=true
+[2018.01.31-19.56.48:093][994]LogSavePackage: Save=65.55ms
+[2018.01.31-19.56.48:093][994]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Rock0AF616144590ADFBCEC35D9167D835DB.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Meshes/Dev/Rock.uasset'
+[2018.01.31-19.56.48:121][994]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Meshes/Dev/Rock.uasset
+[2018.01.31-19.56.48:124][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Meshes/Dev/Rock_Temp" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Meshes/Dev/Rock_Temp.uasset" SILENT=true
+[2018.01.31-19.56.48:183][994]LogSavePackage: Save=6.35ms
+[2018.01.31-19.56.48:183][994]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Rock_Temp946B389D44FBE624B1B3DBBF1E46C080.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Meshes/Dev/Rock_Temp.uasset'
+[2018.01.31-19.56.48:226][994]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Meshes/Dev/Rock_Temp.uasset
+[2018.01.31-19.57.02:026][252]LogAssetTools: Warning: Failed to delete '/Game/Content/Meshes/Dev/Rock_Temp'. The asset is referenced by other content.
+[2018.01.31-19.57.22:631][ 36]LogAssetTools: Warning: Failed to delete '/Game/Content/Meshes/Dev/Rock_Temp'. The asset is referenced by other content.
+[2018.01.31-19.57.54:859][549]LogAssetTools: Warning: Failed to delete '/Game/Content/Meshes/Dev/Rock_Temp'. The asset is referenced by other content.
+[2018.01.31-19.58.03:442][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/Dev/Rock_Temp_Blueprint" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset" SILENT=true
+[2018.01.31-19.58.03:615][996]LogSavePackage: Save=131.09ms
+[2018.01.31-19.58.03:615][996]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Rock_Temp_BlueprintC0F1D9494AA2EC37FE797983535B2F37.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset'
+[2018.01.31-19.58.03:664][996]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/Dev/Rock_Temp_Blueprint.uasset
+[2018.01.31-19.58.04:005][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Maps/TestMaps/Main" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/TestMaps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.31-19.58.04:681][996]LogSavePackage: Save=620.91ms
+[2018.01.31-19.58.04:681][996]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/MainED4A3C8A462627A7341D4292F026CBB7.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/TestMaps/Main.umap'
+[2018.01.31-19.58.04:722][996]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/TestMaps/Main.umap
+[2018.01.31-19.58.04:782][996]LogFileHelpers: Saving map 'Main' took 1.115
+[2018.01.31-19.58.04:783][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Meshes/Dev/Rock_Temp" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Meshes/Dev/Rock_Temp.uasset" SILENT=true
+[2018.01.31-19.58.04:864][996]LogSavePackage: Save=60.39ms
+[2018.01.31-19.58.04:864][996]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Rock_TempA9CF1DF34D1C5D2FF396B48F1551D28F.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Meshes/Dev/Rock_Temp.uasset'
+[2018.01.31-19.58.04:888][996]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Meshes/Dev/Rock_Temp.uasset
+[2018.01.31-19.58.05:019][996]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.31-19.58.05:244][997]Cmd: QUIT_EDITOR
+[2018.01.31-19.58.06:168][997]LogExit: Preparing to exit.
+[2018.01.31-19.58.06:588][997]LogExit: Editor shut down
+[2018.01.31-19.58.06:595][997]LogExit: Transaction tracking system shut down
+[2018.01.31-19.58.07:114][997]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.31-19.58.07:115][997]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.31-19.58.07:115][997]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.31-19.58.07:115][997]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.31-19.58.07:115][997]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.31-19.58.07:115][997]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.31-19.58.07:239][997]LogExit: Object subsystem successfully closed.
+[2018.01.31-19.58.07:261][997]LogD3D11RHI: Shutdown
+[2018.01.31-19.58.07:261][997]LogD3D11RHI: CleanupD3DDevice
+[2018.01.31-19.58.07:267][997]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.31-19.58.07:273][997]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (556)
+[2018.01.31-19.58.07:273][997]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.01.31-19.58.07:273][997]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.01.31-19.58.07:273][997]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.01.31-19.58.07:273][997]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.01.31-19.58.07:273][997]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.01.31-19.58.07:273][997]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.31-19.58.07:275][997]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.01.31-19.58.07:275][997]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.01.31-19.58.07:275][997]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.01.31-19.58.07:275][997]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.01.31-19.58.07:275][997]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.31-19.58.07:275][997]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.31-19.58.07:275][997]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.31-19.58.07:275][997]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.31-19.58.07:275][997]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.31-19.58.07:275][997]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.31-19.58.07:275][997]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.31-19.58.07:275][997]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.31-19.58.07:275][997]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.31-19.58.07:275][997]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.31-19.58.07:276][997]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.31-19.58.07:347][997]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.31-19.58.07:347][997]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.31-19.58.07:347][997]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.31-19.58.07:347][997]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.31-19.58.07:347][997]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.31-19.58.07:347][997]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.31-19.58.07:347][997]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.31-19.58.07:348][997]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.31-19.58.07:414][997]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.31-19.58.07:414][997]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.31-19.58.07:414][997]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.31-19.58.07:414][997]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.31-19.58.07:414][997]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.31-19.58.07:414][997]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.31-19.58.07:414][997]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.31-19.58.07:414][997]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.31-19.58.07:414][997]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.31-19.58.07:414][997]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.31-19.58.07:420][997]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.31-19.58.07:421][997]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.31-19.58.07:421][997]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.31-19.58.07:421][997]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.31-19.58.07:422][997]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.31-19.58.07:458][997]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.31-19.58.07:458][997]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.31-19.58.07:459][997]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.31-19.58.07:460][997]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.31-19.58.07:460][997]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.31-19.58.07:460][997]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.31-19.58.07:460][997]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.31-19.58.07:460][997]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.31-19.58.07:460][997]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.31-19.58.07:460][997]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.31-19.58.07:462][997]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.31-19.58.07:462][997]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.31-19.58.07:463][997]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.31-19.58.07:463][997]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.31-19.58.07:463][997]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.31-19.58.07:463][997]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.31-19.58.07:464][997]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.31-19.58.07:464][997]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.31-19.58.07:464][997]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.31-19.58.07:464][997]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.31-19.58.07:464][997]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.31-19.58.07:565][997]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.31-19.58.07:666][997]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.31-19.58.07:666][997]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.31-19.58.07:666][997]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.31-19.58.07:666][997]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.31-19.58.07:666][997]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.31-19.58.07:666][997]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.31-19.58.07:667][997]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.31-19.58.07:667][997]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.31-19.58.07:667][997]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.31-19.58.07:667][997]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.31-19.58.07:670][997]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.31-19.58.07:670][997]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.31-19.58.07:670][997]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.31-19.58.07:670][997]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.31-19.58.07:670][997]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.31-19.58.07:670][997]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.31-19.58.07:676][997]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.31-19.58.07:679][997]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.31-19.58.07:679][997]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.31-19.58.07:679][997]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.31-19.58.07:679][997]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.31-19.58.07:679][997]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.31-19.58.07:679][997]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.31-19.58.07:679][997]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.31-19.58.07:679][997]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.31-19.58.07:680][997]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.31-19.58.07:680][997]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.31-19.58.07:680][997]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.31-19.58.07:680][997]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.31-19.58.07:680][997]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.31-19.58.07:680][997]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.31-19.58.07:680][997]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.31-19.58.07:680][997]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.31-19.58.07:680][997]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.31-19.58.07:733][997]LogDerivedDataCache: Shutdown
+[2018.01.31-19.58.07:733][997]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.31-19.58.07:733][997]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.31-19.58.07:733][997]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.31-19.58.07:733][997]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.31-19.58.07:733][997]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.31-19.58.07:733][997]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.31-19.58.07:733][997]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.31-19.58.07:733][997]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.31-19.58.07:733][997]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.31-19.58.07:733][997]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.31-19.58.07:733][997]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.31-19.58.07:734][997]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.31-19.58.07:734][997]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.31-19.58.07:734][997]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B47E880D8-4437-A6FA-85E3-14A16BB78E6C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=252b0b754e9da14fad9c6b90840c7800%7C220a8966469c4433894828032f672be2%7Cb1fd0c28-dc76-4b46-8c9a-e72db275e7c0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.31-19.58.07:766][997]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.31-19.58.07:767][997]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.31-19.58.07:767][997]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.31-19.58.07:768][997]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.31-19.58.07:768][997]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.31-19.58.07:768][997]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.31-19.58.07:768][997]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.31-19.58.07:768][997]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.31-19.58.07:769][997]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.31-19.58.07:769][997]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.31-19.58.07:769][997]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.31-19.58.07:769][997]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.31-19.58.07:769][997]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.31-19.58.07:769][997]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.31-19.58.07:769][997]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.31-19.58.07:769][997]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.31-19.58.07:769][997]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.31-19.58.07:769][997]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.31-19.58.07:769][997]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.31-19.58.07:770][997]LogExit: Exiting.
+[2018.01.31-19.58.07:785][997]Log file closed, 01/31/18 14:58:07
