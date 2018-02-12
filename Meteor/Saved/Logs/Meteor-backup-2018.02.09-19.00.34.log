@@ -1,0 +1,1609 @@
+﻿Log file open, 02/09/18 17:44:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Meteor
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-300974226) SRandInit(-300974226).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.180910
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.09-22.44.07:013][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.09-22.44.07:013][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.09-22.44.07:026][  0]LogInit: Computer: MAGICVR03
+[2018.02.09-22.44.07:026][  0]LogInit: User: MagicUser
+[2018.02.09-22.44.07:026][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.09-22.44.07:026][  0]LogInit: High frequency timer resolution =3.613275 MHz
+[2018.02.09-22.44.07:027][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.09-22.44.07:027][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.09-22.44.07:027][  0]LogMemory: Process Physical Memory: 275.11 MB used, 275.11 MB peak
+[2018.02.09-22.44.07:027][  0]LogMemory: Process Virtual Memory: 273.39 MB used, 273.39 MB peak
+[2018.02.09-22.44.07:027][  0]LogMemory: Physical Memory: 5656.92 MB used,  10645.24 MB free, 16302.16 MB total
+[2018.02.09-22.44.07:027][  0]LogMemory: Virtual Memory: 691.47 MB used,  10645.24 MB free, 134217728.00 MB total
+[2018.02.09-22.44.07:216][  0]LogInit: Using OS detected language (en-US).
+[2018.02.09-22.44.07:216][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.09-22.44.07:219][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.09-22.44.07:628][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.09-22.44.07:917][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.09-22.44.07:954][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.02.09-22.44.07:954][  0]LogD3D11RHI:       6061/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.09-22.44.07:955][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.09-22.44.07:955][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.09-22.44.07:955][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.09-22.44.07:961][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.09-22.44.07:961][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.09-22.44.07:961][  0]LogWindows: EnumDisplayDevices:
+[2018.02.09-22.44.07:961][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.02.09-22.44.07:961][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.02.09-22.44.07:961][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.02.09-22.44.07:961][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.02.09-22.44.07:961][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.02.09-22.44.07:961][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.02.09-22.44.07:961][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.02.09-22.44.07:961][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.02.09-22.44.07:962][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.02.09-22.44.07:996][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.09-22.44.08:008][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.09-22.44.08:052][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Intermediate/Shaders/WorkingDirectory/10164/).
+[2018.02.09-22.44.08:052][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MagicUser/AppData/Local/Temp/UnrealShaderWorkingDir/81AAB31A411225D3E7044AAB59FC6439/'.
+[2018.02.09-22.44.08:052][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.09-22.44.09:117][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.09-22.44.09:187][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.09-22.44.09:267][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.09-22.44.09:335][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.09-22.44.09:400][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.09-22.44.09:466][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.09-22.44.09:533][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.09-22.44.09:601][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.09-22.44.09:661][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.09-22.44.09:725][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.09-22.44.09:790][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.09-22.44.09:856][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.09-22.44.09:922][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.09-22.44.09:988][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.09-22.44.10:121][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.09-22.44.10:121][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.09-22.44.10:194][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.09-22.44.10:251][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.09-22.44.10:364][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.09-22.44.10:399][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.09-22.44.10:465][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.09-22.44.10:531][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.09-22.44.10:604][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.09-22.44.10:668][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.09-22.44.10:668][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.09-22.44.11:310][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.09-22.44.11:402][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/MagicUser/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.09-22.44.11:402][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MagicUser/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.09-22.44.11:402][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.09-22.44.11:402][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.09-22.44.11:403][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.09-22.44.11:403][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.09-22.44.11:419][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.09-22.44.11:431][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MagicUser/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.09-22.44.11:443][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.09-22.44.11:444][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.09-22.44.11:444][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.09-22.44.11:444][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.09-22.44.11:883][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.09-22.44.12:296][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.09-22.44.12:353][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.09-22.44.12:353][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.09-22.44.12:353][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.09-22.44.12:353][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.09-22.44.12:353][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.09-22.44.12:384][  0]LogNetVersion: Meteor , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2481781071)
+[2018.02.09-22.44.12:571][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.02.09-22.44.13:204][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.068867 seconds
+[2018.02.09-22.44.13:209][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.09-22.44.13:209][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.09-22.44.13:209][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.09-22.44.13:285][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.09-22.44.16:602][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.09-22.44.16:656][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.09-22.44.17:540][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.09-22.44.18:087][  0]SourceControl: Source control is disabled
+[2018.02.09-22.44.18:087][  0]SourceControl: Source control is disabled
+[2018.02.09-22.44.18:158][  0]SourceControl: Source control is disabled
+[2018.02.09-22.44.18:228][  0]SourceControl: Source control is disabled
+[2018.02.09-22.44.19:309][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.09-22.44.19:669][  0]LogOcInput: OculusInput pre-init called
+[2018.02.09-22.44.20:048][  0]LogEngine: Initializing Engine...
+[2018.02.09-22.44.23:620][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-590B0534
+[2018.02.09-22.44.23:857][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.09-22.44.23:857][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.09-22.44.24:026][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.09-22.44.24:047][  0]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-22.44.24:070][  0]LogInit: FAudioDevice initialized.
+[2018.02.09-22.44.24:216][  0]LogDerivedDataCache: Saved boot cache 0.15s 78MB C:/Users/MagicUser/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.09-22.44.24:230][  0]LogInit: Texture streaming: Enabled
+[2018.02.09-22.44.24:365][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.09-22.44.24:365][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={37DC95D8-4420-7734-007B-698559229BFC}
+[2018.02.09-22.44.24:531][  0]LogInit: Transaction tracking system initialized
+[2018.02.09-22.44.24:946][  0]BlueprintLog: New page: Editor Load
+[2018.02.09-22.44.26:134][  0]LocalizationService: Localization service is disabled
+[2018.02.09-22.44.27:117][  0]LogConsoleResponse: Display: 
+[2018.02.09-22.44.27:311][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.09-22.44.27:311][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.09-22.44.27:312][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.09-22.44.28:013][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/' took 0.02s
+[2018.02.09-22.44.28:889][  0]SourceControl: Source control is disabled
+[2018.02.09-22.44.28:889][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.09-22.44.28:889][  0]LightingResults: New page: Lighting Build
+[2018.02.09-22.44.28:945][  0]MapCheck: New page: Map Check
+[2018.02.09-22.44.28:945][  0]LightingResults: New page: Lighting Build
+[2018.02.09-22.44.29:206][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.09-22.44.29:212][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.09-22.44.29:222][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.09-22.44.29:282][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.226ms to complete.
+[2018.02.09-22.44.29:282][  0]LogFileHelpers: Loading map 'Template_Default' took 0.393
+[2018.02.09-22.44.29:434][  0]LogCollectionManager: Loaded 0 collections in 0.001999 seconds
+[2018.02.09-22.44.29:525][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Collections/' took 0.01s
+[2018.02.09-22.44.29:525][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/Developers/MagicUser/Collections/' took 0.01s
+[2018.02.09-22.44.29:525][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/Collections/' took 0.01s
+[2018.02.09-22.44.29:525][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.09-22.44.29:534][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2363 classes and 519 folders.
+[2018.02.09-22.44.29:621][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.09-22.44.29:669][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.09-22.44.29:726][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.02.09-22.44.29:795][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.09-22.44.29:797][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.09-22.44.29:804][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.09-22.44.29:910][  0]LogRenderer: Reallocating scene render targets to support 1156x584 Format 10 NumSamples 1 (Frame:1).
+[2018.02.09-22.44.30:074][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.09-22.44.30:074][  0]LogLoad: (Engine Initialization) Total time: 25.96 seconds
+[2018.02.09-22.44.30:074][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.09-22.44.30:074][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.09-22.44.30:074][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.09-22.44.30:433][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.09-22.44.30:479][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.09-22.44.30:755][  1]LogAssetRegistry: Asset discovery search completed in 18.2061 seconds
+[2018.02.09-22.44.30:757][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.09-22.44.30:757][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2018.02.09-22.44.31:416][  3]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.09-22.45.19:733][557]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.09-22.45.20:386][557]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.02.09-22.45.20:386][557]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.02.09-22.45.20:386][557]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.02.09-22.45.20:386][557]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.02.09-22.45.20:433][557]LogAIModule: Creating AISystem for world Main
+[2018.02.09-22.45.20:456][557]Cmd: MAP LOAD FILE="../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/Content/Maps/TestMaps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.09-22.45.20:456][557]LightingResults: New page: Lighting Build
+[2018.02.09-22.45.20:457][557]LoadErrors: New page: Loading map: Main.umap
+[2018.02.09-22.45.20:457][557]MapCheck: New page: Map Check
+[2018.02.09-22.45.20:457][557]LightingResults: New page: Lighting Build
+[2018.02.09-22.45.20:528][557]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.09-22.45.20:572][557]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.09-22.45.20:644][557]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.143ms to complete.
+[2018.02.09-22.45.20:645][557]LogFileHelpers: Loading map 'Main' took 0.190
+[2018.02.09-22.45.48:380][807]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.02.09-22.45.50:471][807]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.09-22.45.50:567][808]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.09-22.46.28:382][ 32]LogSavePackage: Save=22.71ms
+[2018.02.09-22.46.28:382][ 32]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/BP_Menu682AE28548C0ECDDF9D97D84C3037A6A.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/Content/Blueprints/BP_Menu.uasset'
+[2018.02.09-22.46.28:386][ 32]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/Content/Blueprints/BP_Menu.uasset
+[2018.02.09-22.46.28:823][ 83]BlueprintLog: New page: Compile BP_Menu
+[2018.02.09-22.46.32:300][458]LogTemp: Repeating last play command: VR Preview
+[2018.02.09-22.46.32:508][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-22.46.32:509][458]PIE: New page: PIE session: Main (Feb 9, 2018, 12:46:32 PM)
+[2018.02.09-22.46.32:509][458]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.02.09-22.46.32:516][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007399s)
+[2018.02.09-22.46.32:517][458]LogAIModule: Creating AISystem for world Main
+[2018.02.09-22.46.32:517][458]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2018.02.09-22.46.32:517][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.008398s)
+[2018.02.09-22.46.32:550][458]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-22.46.32:558][458]LogInit: FAudioDevice initialized.
+[2018.02.09-22.46.32:638][458]LogLoad: Game class is 'GameModeBase'
+[2018.02.09-22.46.32:641][458]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.02.09-17.46.32
+[2018.02.09-22.46.32:642][458]LogWorld: Bringing up level for play took: 0.002688
+[2018.02.09-22.46.32:698][458]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.02.09-22.46.32:703][458]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main 0.448
+[2018.02.09-22.46.32:754][459]LogRenderer: Reallocating scene render targets to support 2160x1200 Format 10 NumSamples 1 (Frame:1).
+[2018.02.09-22.47.28:408][542]LogSavePackage: Save=381.10ms
+[2018.02.09-22.47.28:408][542]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/BP_MotionController7A11624B4876931E53B5518A04B414E8.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.02.09-22.47.28:412][542]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2018.02.09-22.47.32:132][987]LogTemp: Repeating last play command: VR Preview
+[2018.02.09-22.47.32:158][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-22.47.32:158][987]PIE: New page: PIE session: Main (Feb 9, 2018, 12:47:32 PM)
+[2018.02.09-22.47.32:158][987]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.02.09-22.47.32:164][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005986s)
+[2018.02.09-22.47.32:165][987]LogAIModule: Creating AISystem for world Main
+[2018.02.09-22.47.32:165][987]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2018.02.09-22.47.32:165][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.007088s)
+[2018.02.09-22.47.32:199][987]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-22.47.32:207][987]LogInit: FAudioDevice initialized.
+[2018.02.09-22.47.32:298][987]LogLoad: Game class is 'GameModeBase'
+[2018.02.09-22.47.32:301][987]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.02.09-17.47.32
+[2018.02.09-22.47.32:302][987]LogWorld: Bringing up level for play took: 0.003366
+[2018.02.09-22.47.32:313][987]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main 0.058
+[2018.02.09-22.56.09:998][436]LogSavePackage: Save=85.08ms
+[2018.02.09-22.56.09:998][436]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Main_Auto13E92D9C347CEA63FE03704B47C1BA1D4.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto1.umap'
+[2018.02.09-22.56.10:053][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto1.umap
+[2018.02.09-22.56.10:059][436]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Maps/TestMaps/Main' took 0.233
+[2018.02.09-22.56.10:059][436]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.233
+[2018.02.09-22.56.10:061][436]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2018.02.09-22.56.10:062][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2018.02.09-22.56.10:311][436]LogSavePackage: Save=210.96ms
+[2018.02.09-22.56.10:311][436]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/MotionControllerPawn_Auto1EDA7D3A14A2B56A394598CB5DFBDE359.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto1.uasset'
+[2018.02.09-22.56.10:324][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto1.uasset
+[2018.02.09-22.56.10:325][436]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2018.02.09-22.56.10:349][436]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2018.02.09-22.56.10:349][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2018.02.09-22.56.10:837][436]LogSavePackage: Save=467.82ms
+[2018.02.09-22.56.10:850][436]LogSlate: Took 0.012494 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.09-22.56.10:855][436]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/BP_MotionController_Auto171205F124FAE35BB477D6BA63D5040A8.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto1.uasset'
+[2018.02.09-22.56.10:857][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto1.uasset
+[2018.02.09-22.56.10:857][436]LogFileHelpers: Auto-saving content packages took 0.797
+[2018.02.09-23.04.54:583][ 44]LogSlate: Took 0.016089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.02.09-23.06.30:743][597]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Maps/TestMaps/Main' took 0.036
+[2018.02.09-23.06.30:745][597]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2018.02.09-23.06.30:745][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2018.02.09-23.06.30:955][597]LogSavePackage: Save=187.00ms
+[2018.02.09-23.06.30:955][597]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/MotionControllerPawn_Auto2B41C4A36412C26AFA9DEB9886D58CA15.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto2.uasset'
+[2018.02.09-23.06.30:969][597]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto2.uasset
+[2018.02.09-23.06.30:970][597]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2018.02.09-23.06.30:985][597]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2018.02.09-23.06.30:985][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2018.02.09-23.06.31:429][597]LogSavePackage: Save=425.60ms
+[2018.02.09-23.06.31:429][597]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/BP_MotionController_Auto248EF7722460C96464504598184118E0B.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto2.uasset'
+[2018.02.09-23.06.31:431][597]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto2.uasset
+[2018.02.09-23.06.31:431][597]LogFileHelpers: Auto-saving content packages took 0.687
+[2018.02.09-23.07.35:992][540]LogSavePackage: Save=415.27ms
+[2018.02.09-23.07.35:992][540]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/BP_MotionController3C505DED4E96D18280F1D89A5886DF77.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.02.09-23.07.35:999][540]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2018.02.09-23.07.36:464][592]BlueprintLog: New page: Compile BP_MotionController
+[2018.02.09-23.08.30:284][510]LogSavePackage: Save=414.10ms
+[2018.02.09-23.08.30:284][510]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/BP_MotionController3A4922044B8414EAF2E96F8DBFF85CCB.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.02.09-23.08.30:288][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2018.02.09-23.08.30:640][548]BlueprintLog: New page: Compile BP_MotionController
+[2018.02.09-23.12.11:427][284]LogTemp: Repeating last play command: VR Preview
+[2018.02.09-23.12.11:520][284]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.09-23.12.11:554][284]LogPlayLevel: [PlayLevel] Compiling MotionControllerPawn before play...
+[2018.02.09-23.12.11:985][284]LogPlayLevel: PlayLevel: Blueprint regeneration took 465 ms (1 blueprints)
+[2018.02.09-23.12.11:985][284]PIE: New page: PIE session: Main (Feb 9, 2018, 1:12:11 PM)
+[2018.02.09-23.12.11:986][284]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.02.09-23.12.12:105][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119846s)
+[2018.02.09-23.12.12:106][284]LogAIModule: Creating AISystem for world Main
+[2018.02.09-23.12.12:106][284]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2018.02.09-23.12.12:107][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.121064s)
+[2018.02.09-23.12.12:145][284]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-23.12.12:155][284]LogInit: FAudioDevice initialized.
+[2018.02.09-23.12.12:797][284]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-590B0534
+[2018.02.09-23.12.12:850][284]LogLoad: Game class is 'GameModeBase'
+[2018.02.09-23.12.12:854][284]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.02.09-18.12.12
+[2018.02.09-23.12.12:855][284]LogWorld: Bringing up level for play took: 0.003826
+[2018.02.09-23.12.12:871][284]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main 0.616
+[2018.02.09-23.12.34:163][ 60]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.34:185][ 61]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.34:192][ 62]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.34:199][ 63]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.34:206][ 64]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.34:533][ 91]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.34:554][ 93]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.34:561][ 94]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.34:568][ 95]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.34:575][ 96]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.34:582][ 97]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.34:590][ 98]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.34:597][ 99]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.34:604][100]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.34:612][101]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.37:072][319]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.37:072][319]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.37:080][320]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.37:087][321]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.37:094][322]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.37:101][323]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.37:109][324]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.37:116][325]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.37:124][326]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.37:132][327]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.37:139][328]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.37:147][329]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:562][722]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:562][722]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:569][723]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:577][724]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:584][725]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:591][726]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:599][727]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:606][728]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:613][729]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:621][730]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:628][731]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:636][732]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:644][733]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:651][734]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.41:659][735]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:254][148]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:254][148]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:262][149]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:270][150]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:278][151]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:286][152]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:293][153]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:301][154]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:309][155]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:316][156]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:324][157]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:332][158]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:339][159]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:347][160]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:355][161]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:363][162]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.46:370][163]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.47:885][279]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.47:895][280]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.47:904][281]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.47:914][282]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.47:923][283]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.47:933][284]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.47:942][285]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.47:952][286]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.47:961][287]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.47:970][288]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.47:980][289]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.48:600][337]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.48:600][337]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.48:609][338]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.48:618][339]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.48:626][340]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.48:635][341]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.48:644][342]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.48:652][343]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.48:661][344]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.48:669][345]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.48:679][346]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.48:687][347]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.48:696][348]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.49:952][457]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.49:952][457]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.49:959][458]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.49:968][459]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.49:976][460]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.49:984][461]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.49:993][462]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:002][463]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:010][464]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:018][465]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:027][466]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:622][517]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:622][517]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:631][518]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:639][519]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:648][520]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:657][521]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:666][522]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:674][523]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:682][524]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:691][525]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:699][526]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.50:709][527]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:359][760]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:359][760]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:368][761]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:376][762]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:386][763]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:395][764]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:403][765]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:412][766]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:420][767]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:429][768]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:438][769]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:447][770]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:455][771]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:464][772]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:473][773]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:483][774]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:493][775]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:502][776]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:512][777]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:521][778]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:530][779]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:539][780]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:549][781]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:558][782]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:567][783]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:576][784]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:585][785]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:594][786]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:603][787]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:612][788]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:621][789]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:630][790]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:639][791]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:648][792]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:657][793]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:666][794]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:675][795]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:684][796]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:693][797]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:701][798]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:710][799]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:718][800]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:727][801]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:736][802]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:745][803]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:756][804]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:765][805]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:773][806]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:783][807]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:791][808]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:800][809]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:808][810]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:817][811]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:825][812]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:834][813]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:843][814]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:852][815]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:861][816]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:869][817]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:879][818]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:887][819]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:897][820]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:907][821]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:916][822]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:925][823]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:934][824]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:943][825]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:951][826]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:960][827]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:969][828]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:978][829]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:988][830]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.53:997][831]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:005][832]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:015][833]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:024][834]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:034][835]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:043][836]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:051][837]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:060][838]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:070][839]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:079][840]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:088][841]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:097][842]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:106][843]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:115][844]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:123][845]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:132][846]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:141][847]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:150][848]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:159][849]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:168][850]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:177][851]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:187][852]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:196][853]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:205][854]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:214][855]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:223][856]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:232][857]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:241][858]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:250][859]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:259][860]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:267][861]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:276][862]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:285][863]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:294][864]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:303][865]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:312][866]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:320][867]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:329][868]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:337][869]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:346][870]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.54:355][871]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.55:895][  8]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.55:895][  8]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.55:904][  9]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.55:913][ 10]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.55:922][ 11]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.55:932][ 12]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.55:940][ 13]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.55:950][ 14]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.55:959][ 15]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.55:968][ 16]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.55:977][ 17]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.56:678][ 79]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.56:678][ 79]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.56:686][ 80]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.56:695][ 81]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.56:704][ 82]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.56:713][ 83]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.56:721][ 84]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.56:731][ 85]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.56:739][ 86]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.56:748][ 87]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.56:757][ 88]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.56:766][ 89]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.56:774][ 90]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.57:749][178]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.57:749][178]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.57:758][179]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.57:767][180]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.57:776][181]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.57:786][182]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.57:795][183]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.57:803][184]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.57:812][185]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.57:821][186]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.57:831][187]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.57:839][188]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.12.57:848][189]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.00:329][407]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.00:329][407]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.00:338][408]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.00:347][409]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.00:356][410]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.00:365][411]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.00:374][412]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.00:384][413]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.00:393][414]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.00:402][415]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.00:411][416]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.00:419][417]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.00:429][418]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.00:437][419]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.01:557][516]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.01:557][516]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.01:565][517]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.01:574][518]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.01:583][519]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.01:590][520]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.01:599][521]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.01:607][522]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.01:616][523]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.01:624][524]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.01:632][525]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.01:640][526]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.04:853][810]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.04:853][810]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.04:863][811]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.04:872][812]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.04:881][813]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.04:890][814]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.04:900][815]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.04:909][816]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.08:393][121]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.08:393][121]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.08:402][122]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.08:410][123]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.08:419][124]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.08:429][125]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.08:438][126]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.08:448][127]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.08:456][128]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.08:466][129]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:593][310]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:593][310]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:602][311]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:611][312]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:620][313]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:629][314]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:638][315]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:647][316]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:655][317]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:665][318]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:673][319]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:682][320]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:691][321]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:700][322]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.10:709][323]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.12:504][475]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.12:504][475]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.12:513][476]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.12:522][477]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.12:531][478]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.12:540][479]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.12:549][480]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:050][874]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:050][874]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:058][875]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:067][876]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:077][877]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:085][878]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:094][879]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:103][880]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:112][881]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:120][882]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:130][883]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:138][884]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:147][885]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:156][886]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:165][887]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:174][888]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:183][889]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:191][890]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:200][891]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:209][892]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:217][893]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:226][894]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:236][895]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:245][896]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:253][897]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:262][898]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:270][899]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:279][900]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:288][901]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:297][902]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:306][903]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:315][904]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:323][905]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:332][906]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:341][907]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:349][908]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:358][909]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:367][910]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:376][911]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:384][912]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:393][913]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:401][914]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:410][915]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:419][916]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:427][917]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:436][918]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:445][919]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:453][920]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:462][921]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:470][922]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:480][923]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:488][924]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:497][925]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:506][926]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:515][927]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:523][928]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:532][929]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:541][930]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:549][931]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:557][932]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:566][933]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:574][934]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:583][935]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:591][936]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:600][937]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:609][938]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:618][939]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:627][940]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:635][941]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:644][942]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:653][943]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:662][944]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:671][945]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:680][946]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:688][947]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:697][948]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:706][949]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:715][950]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:724][951]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:733][952]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:742][953]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:751][954]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:759][955]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:768][956]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:776][957]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:785][958]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:793][959]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:802][960]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:811][961]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:820][962]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:828][963]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:837][964]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:846][965]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:855][966]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:864][967]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:873][968]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:882][969]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:891][970]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:901][971]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:911][972]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:922][973]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:931][974]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:940][975]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:948][976]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:957][977]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:966][978]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:974][979]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:983][980]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.17:992][981]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:000][982]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:009][983]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:017][984]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:027][985]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:036][986]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:044][987]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:053][988]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:062][989]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:070][990]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:080][991]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:089][992]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:098][993]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:106][994]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:115][995]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:123][996]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:132][997]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:141][998]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:150][999]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:160][  0]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:169][  1]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:178][  2]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:187][  3]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:196][  4]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:204][  5]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:213][  6]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:222][  7]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:231][  8]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:239][  9]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:248][ 10]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:256][ 11]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:265][ 12]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:274][ 13]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:282][ 14]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:291][ 15]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:300][ 16]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:309][ 17]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:318][ 18]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:346][ 20]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:355][ 21]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:364][ 22]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:373][ 23]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:382][ 24]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:390][ 25]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:399][ 26]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:408][ 27]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:417][ 28]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:426][ 29]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:434][ 30]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:443][ 31]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:451][ 32]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:460][ 33]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:468][ 34]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:478][ 35]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:486][ 36]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:495][ 37]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:503][ 38]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:512][ 39]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:521][ 40]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:530][ 41]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:538][ 42]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:547][ 43]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:556][ 44]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:564][ 45]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:572][ 46]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:581][ 47]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:590][ 48]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:598][ 49]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:607][ 50]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:616][ 51]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:624][ 52]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:633][ 53]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:641][ 54]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:650][ 55]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:659][ 56]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:668][ 57]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:677][ 58]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:685][ 59]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:695][ 60]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:703][ 61]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:712][ 62]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:720][ 63]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:730][ 64]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:738][ 65]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:747][ 66]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:755][ 67]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:765][ 68]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:774][ 69]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:782][ 70]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:790][ 71]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:799][ 72]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:808][ 73]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:817][ 74]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:825][ 75]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:834][ 76]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:842][ 77]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:851][ 78]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:860][ 79]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:869][ 80]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:878][ 81]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:886][ 82]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:895][ 83]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:903][ 84]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.18:912][ 85]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.19:372][123]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.19:372][123]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.19:381][124]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.19:389][125]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.19:398][126]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.19:407][127]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.19:416][128]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.19:424][129]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.19:433][130]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.19:441][131]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.13.19:450][132]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.16:955][308]LogSavePackage: Save=392.05ms
+[2018.02.09-23.14.16:955][308]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/BP_MotionController3FA4B2E443E334638472A8A23F073CCA.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.02.09-23.14.16:960][308]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2018.02.09-23.14.17:370][354]BlueprintLog: New page: Compile BP_MotionController
+[2018.02.09-23.14.46:540][778]BlueprintLog: New page: Compile BP_MotionController
+[2018.02.09-23.14.49:567][ 73]LogTemp: Repeating last play command: VR Preview
+[2018.02.09-23.14.49:598][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-23.14.49:598][ 73]PIE: New page: PIE session: Main (Feb 9, 2018, 1:14:49 PM)
+[2018.02.09-23.14.49:598][ 73]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.02.09-23.14.49:604][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006160s)
+[2018.02.09-23.14.49:605][ 73]LogAIModule: Creating AISystem for world Main
+[2018.02.09-23.14.49:605][ 73]LogPlayLevel: PIE: World Init took: (0.000815s)
+[2018.02.09-23.14.49:605][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.007297s)
+[2018.02.09-23.14.49:642][ 73]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-23.14.49:650][ 73]LogInit: FAudioDevice initialized.
+[2018.02.09-23.14.49:743][ 73]LogLoad: Game class is 'GameModeBase'
+[2018.02.09-23.14.49:746][ 73]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.02.09-18.14.49
+[2018.02.09-23.14.49:747][ 73]LogWorld: Bringing up level for play took: 0.002467
+[2018.02.09-23.14.49:759][ 73]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main -0.496
+[2018.02.09-23.14.53:105][335]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.53:127][337]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.53:134][338]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.53:142][339]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.53:149][340]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.53:157][341]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.53:164][342]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.53:172][343]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.53:179][344]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.53:187][345]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.54:411][450]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.54:411][450]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.54:419][451]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.54:426][452]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.54:434][453]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.54:441][454]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.54:449][455]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.54:456][456]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.54:463][457]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.54:471][458]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.54:478][459]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.55:820][575]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.55:820][575]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.55:829][576]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.55:838][577]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.55:847][578]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.55:856][579]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.55:865][580]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.55:875][581]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.55:883][582]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.55:892][583]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.55:902][584]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.55:910][585]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.55:919][586]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.58:144][776]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.58:144][776]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.58:152][777]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.58:161][778]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.58:170][779]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.58:178][780]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.58:187][781]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.58:196][782]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.58:204][783]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.58:213][784]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.58:221][785]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.58:230][786]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.58:240][787]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.58:248][788]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.59:897][931]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.59:897][931]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.59:906][932]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.59:915][933]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.59:924][934]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.59:933][935]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.59:942][936]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.59:950][937]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.59:960][938]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.59:969][939]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.59:979][940]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.14.59:988][941]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.12:606][ 59]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.12:606][ 59]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.12:613][ 60]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.12:621][ 61]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.12:628][ 62]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.12:636][ 63]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.12:643][ 64]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.12:650][ 65]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.12:658][ 66]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.12:665][ 67]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.12:672][ 68]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.12:679][ 69]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.12:686][ 70]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.12:694][ 71]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.15:297][304]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.15:297][304]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.15:305][305]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.15:312][306]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.15:320][307]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.15:327][308]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.15:334][309]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.15:342][310]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.15:349][311]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.15:356][312]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.15:363][313]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.15:371][314]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.15.15:378][315]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.18.18:777][923]LogSavePackage: Save=71.66ms
+[2018.02.09-23.18.18:777][923]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Main_Auto3C6C84F8748A469B1963DC293BA1FE231.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto3.umap'
+[2018.02.09-23.18.18:778][923]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/Content/Maps/TestMaps/Main_Auto3.umap
+[2018.02.09-23.18.18:781][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Maps/TestMaps/Main' took 0.122
+[2018.02.09-23.18.18:781][923]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.122
+[2018.02.09-23.18.18:783][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2018.02.09-23.18.18:783][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2018.02.09-23.18.18:964][923]LogSavePackage: Save=164.91ms
+[2018.02.09-23.18.18:964][923]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/MotionControllerPawn_Auto333DB927B495B9295A62B7EB0B385C78A.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto3.uasset'
+[2018.02.09-23.18.18:967][923]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto3.uasset
+[2018.02.09-23.18.18:968][923]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2018.02.09-23.18.18:989][923]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2018.02.09-23.18.18:989][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2018.02.09-23.18.19:427][923]LogSavePackage: Save=425.11ms
+[2018.02.09-23.18.19:427][923]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/BP_MotionController_Auto3F7A60A454FD54746FC8E76A991C416B6.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto3.uasset'
+[2018.02.09-23.18.19:429][923]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto3.uasset
+[2018.02.09-23.18.19:429][923]LogFileHelpers: Auto-saving content packages took 0.647
+[2018.02.09-23.50.52:766][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Content/Maps/TestMaps/Main' took 0.027
+[2018.02.09-23.50.52:768][178]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2018.02.09-23.50.52:784][178]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2018.02.09-23.50.52:784][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2018.02.09-23.50.53:210][178]LogSavePackage: Save=403.50ms
+[2018.02.09-23.50.53:210][178]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/BP_MotionController_Auto463CC6E394B32544EB4D420B56A1FE7DF.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto4.uasset'
+[2018.02.09-23.50.53:213][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto4.uasset
+[2018.02.09-23.50.53:213][178]LogFileHelpers: Auto-saving content packages took 0.446
+[2018.02.09-23.53.28:745][429]LogSavePackage: Save=390.61ms
+[2018.02.09-23.53.28:745][429]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/BP_MotionControllerA32B633D422B934DC28CE39CFC570557.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.02.09-23.53.28:759][429]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2018.02.09-23.53.29:125][470]BlueprintLog: New page: Compile BP_MotionController
+[2018.02.09-23.53.39:021][573]LogTemp: Repeating last play command: VR Preview
+[2018.02.09-23.53.39:051][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-23.53.39:051][573]PIE: New page: PIE session: Main (Feb 9, 2018, 1:53:39 PM)
+[2018.02.09-23.53.39:051][573]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.02.09-23.53.39:058][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006391s)
+[2018.02.09-23.53.39:059][573]LogAIModule: Creating AISystem for world Main
+[2018.02.09-23.53.39:059][573]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2018.02.09-23.53.39:059][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.007508s)
+[2018.02.09-23.53.39:095][573]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-23.53.39:104][573]LogInit: FAudioDevice initialized.
+[2018.02.09-23.53.42:249][573]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-590B0534
+[2018.02.09-23.53.42:301][573]LogLoad: Game class is 'GameModeBase'
+[2018.02.09-23.53.42:304][573]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.02.09-18.53.42
+[2018.02.09-23.53.42:305][573]LogWorld: Bringing up level for play took: 0.003196
+[2018.02.09-23.53.42:385][573]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main 4.13
+[2018.02.09-23.53.45:811][840]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.45:839][842]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.45:845][843]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.45:852][844]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.45:859][845]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.45:866][846]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.45:873][847]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.46:925][940]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.46:926][940]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.46:933][941]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.46:941][942]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.46:949][943]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.46:956][944]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.46:964][945]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.46:971][946]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.46:979][947]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.46:986][948]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.46:994][949]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.48:603][ 91]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.48:603][ 91]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.48:612][ 92]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.48:620][ 93]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.48:629][ 94]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.48:638][ 95]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.48:648][ 96]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.48:657][ 97]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.48:666][ 98]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.48:674][ 99]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.51:439][344]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.51:439][344]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.51:447][345]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.51:456][346]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.51:464][347]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.51:472][348]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.51:481][349]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.51:490][350]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.51:499][351]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.52:132][405]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.52:132][405]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.52:141][406]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.52:149][407]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.52:158][408]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.52:167][409]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.52:175][410]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.52:184][411]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.52:193][412]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.52:202][413]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.53.52:211][414]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2018.02.09-23.55.48:937][880]LogSavePackage: Save=398.22ms
+[2018.02.09-23.55.48:937][880]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/BP_MotionController58AFD4834D13AA36FE3107A1E645D1DF.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.02.09-23.55.48:941][880]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2018.02.09-23.55.49:308][921]BlueprintLog: New page: Compile BP_MotionController
+[2018.02.09-23.55.50:749][ 25]LogTemp: Repeating last play command: VR Preview
+[2018.02.09-23.55.50:773][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-23.55.50:774][ 25]PIE: New page: PIE session: Main (Feb 9, 2018, 1:55:50 PM)
+[2018.02.09-23.55.50:774][ 25]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.02.09-23.55.50:780][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005775s)
+[2018.02.09-23.55.50:781][ 25]LogAIModule: Creating AISystem for world Main
+[2018.02.09-23.55.50:781][ 25]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2018.02.09-23.55.50:781][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.007627s)
+[2018.02.09-23.55.50:822][ 25]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-23.55.50:830][ 25]LogInit: FAudioDevice initialized.
+[2018.02.09-23.55.50:930][ 25]LogLoad: Game class is 'GameModeBase'
+[2018.02.09-23.55.50:933][ 25]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.02.09-18.55.50
+[2018.02.09-23.55.50:933][ 25]LogWorld: Bringing up level for play took: 0.002473
+[2018.02.09-23.55.50:945][ 25]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main 0.69
+[2018.02.09-23.56.27:473][689]LogTemp: Repeating last play command: VR Preview
+[2018.02.09-23.56.27:499][689]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.09-23.56.27:574][689]LogPlayLevel: [PlayLevel] Compiling BP_MotionController before play...
+[2018.02.09-23.56.28:044][689]LogPlayLevel: PlayLevel: Blueprint regeneration took 544 ms (1 blueprints)
+[2018.02.09-23.56.28:044][689]PIE: New page: PIE session: Main (Feb 9, 2018, 1:56:28 PM)
+[2018.02.09-23.56.28:044][689]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.02.09-23.56.28:050][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005316s)
+[2018.02.09-23.56.28:050][689]LogAIModule: Creating AISystem for world Main
+[2018.02.09-23.56.28:051][689]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2018.02.09-23.56.28:051][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.006249s)
+[2018.02.09-23.56.28:085][689]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-23.56.28:092][689]LogInit: FAudioDevice initialized.
+[2018.02.09-23.56.28:186][689]LogLoad: Game class is 'GameModeBase'
+[2018.02.09-23.56.28:189][689]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.02.09-18.56.28
+[2018.02.09-23.56.28:190][689]LogWorld: Bringing up level for play took: 0.002936
+[2018.02.09-23.56.28:202][689]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main -0.053
+[2018.02.09-23.57.02:745][253]LogSavePackage: Save=392.53ms
+[2018.02.09-23.57.02:745][253]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/BP_MotionController184997C649B8BDD4EEACCE92B6DCCA02.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.02.09-23.57.02:749][253]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2018.02.09-23.57.03:166][300]BlueprintLog: New page: Compile BP_MotionController
+[2018.02.09-23.57.04:747][405]LogTemp: Repeating last play command: VR Preview
+[2018.02.09-23.57.04:772][405]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-23.57.04:773][405]PIE: New page: PIE session: Main (Feb 9, 2018, 1:57:04 PM)
+[2018.02.09-23.57.04:773][405]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.02.09-23.57.04:778][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005518s)
+[2018.02.09-23.57.04:779][405]LogAIModule: Creating AISystem for world Main
+[2018.02.09-23.57.04:779][405]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2018.02.09-23.57.04:779][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.006738s)
+[2018.02.09-23.57.04:820][405]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-23.57.04:827][405]LogInit: FAudioDevice initialized.
+[2018.02.09-23.57.04:927][405]LogLoad: Game class is 'GameModeBase'
+[2018.02.09-23.57.04:929][405]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.02.09-18.57.04
+[2018.02.09-23.57.04:930][405]LogWorld: Bringing up level for play took: 0.002486
+[2018.02.09-23.57.04:942][405]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main 0.687
+[2018.02.09-23.57.44:475][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-23.57.44:476][181]PIE: New page: SIE session: Main (Feb 9, 2018, 1:57:44 PM)
+[2018.02.09-23.57.44:476][181]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.02.09-23.57.44:482][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006002s)
+[2018.02.09-23.57.44:482][181]LogAIModule: Creating AISystem for world Main
+[2018.02.09-23.57.44:483][181]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2018.02.09-23.57.44:483][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.007008s)
+[2018.02.09-23.57.44:518][181]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-23.57.44:526][181]LogInit: FAudioDevice initialized.
+[2018.02.09-23.57.44:572][181]LogLoad: Game class is 'GameModeBase'
+[2018.02.09-23.57.44:589][181]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.02.09-18.57.44
+[2018.02.09-23.57.44:589][181]LogWorld: Bringing up level for play took: 0.016762
+[2018.02.09-23.57.44:593][181]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main 0.338
+[2018.02.09-23.57.46:004][311]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:GameInstance_8.None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.09-23.57.47:877][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-23.57.47:878][530]PIE: New page: PIE session: Main (Feb 9, 2018, 1:57:47 PM)
+[2018.02.09-23.57.47:878][530]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.02.09-23.57.47:885][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007249s)
+[2018.02.09-23.57.47:886][530]LogAIModule: Creating AISystem for world Main
+[2018.02.09-23.57.47:886][530]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2018.02.09-23.57.47:886][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.008455s)
+[2018.02.09-23.57.47:925][530]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-23.57.47:932][530]LogInit: FAudioDevice initialized.
+[2018.02.09-23.57.48:024][530]LogLoad: Game class is 'GameModeBase'
+[2018.02.09-23.57.48:027][530]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.02.09-18.57.48
+[2018.02.09-23.57.48:027][530]LogWorld: Bringing up level for play took: 0.002791
+[2018.02.09-23.57.48:039][530]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main -0.215
+[2018.02.09-23.58.13:151][960]LogSavePackage: Save=165.04ms
+[2018.02.09-23.58.13:151][960]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/MotionControllerPawn789605784416112F402DBB86F61D844F.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.02.09-23.58.13:158][960]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.02.09-23.58.13:582][  3]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.02.09-23.58.17:937][411]LogTemp: Repeating last play command: VR Preview
+[2018.02.09-23.58.17:987][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-23.58.17:988][411]PIE: New page: PIE session: Main (Feb 9, 2018, 1:58:17 PM)
+[2018.02.09-23.58.17:988][411]LogPlayLevel: Creating play world package: /Game/Content/Maps/TestMaps/UEDPIE_0_Main
+[2018.02.09-23.58.17:995][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006871s)
+[2018.02.09-23.58.17:995][411]LogAIModule: Creating AISystem for world Main
+[2018.02.09-23.58.17:995][411]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2018.02.09-23.58.17:996][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/TestMaps/Main.Main to /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main (0.007899s)
+[2018.02.09-23.58.18:030][411]LogInit: XAudio2 using 'HTC-VIVE-0 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.09-23.58.18:038][411]LogInit: FAudioDevice initialized.
+[2018.02.09-23.58.18:107][411]LogLoad: Game class is 'GameModeBase'
+[2018.02.09-23.58.18:110][411]LogWorld: Bringing World /Game/Content/Maps/TestMaps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.02.09-18.58.18
+[2018.02.09-23.58.18:110][411]LogWorld: Bringing up level for play took: 0.002443
+[2018.02.09-23.58.18:115][411]PIE: Play in editor start time for /Game/Content/Maps/TestMaps/UEDPIE_0_Main -0.14
+[2018.02.09-23.58.51:276][712]LogSavePackage: Save=70.66ms
+[2018.02.09-23.58.51:276][712]LogSavePackage: Moving '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/MainB3FD87E545825839B7112EB1506AEA3B.tmp' to '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/Content/Maps/TestMaps/Main.umap'
+[2018.02.09-23.58.51:280][712]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/Content/Maps/TestMaps/Main.umap
+[2018.02.09-23.58.51:322][712]LogFileHelpers: Saving map 'Main' took 0.290
+[2018.02.09-23.58.53:873][989]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.09-23.58.53:983][989]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.09-23.58.54:131][989]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.09-23.58.54:448][990]Cmd: QUIT_EDITOR
+[2018.02.09-23.58.55:138][990]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.09-23.58.55:154][990]LogExit: Preparing to exit.
+[2018.02.09-23.58.55:693][990]LogDirectoryWatcher: A directory notification for 'C:/Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/' was aborted.
+[2018.02.09-23.58.55:744][990]PIE: UWidget::RemoveFromParent() called on 'None.None:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.09-23.58.55:789][990]LogExit: Editor shut down
+[2018.02.09-23.58.55:815][990]LogExit: Transaction tracking system shut down
+[2018.02.09-23.58.56:008][990]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.09-23.58.56:008][990]LogDirectoryWatcher: A directory notification for '../../../../../../Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/' was aborted.
+[2018.02.09-23.58.56:008][990]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.09-23.58.56:008][990]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.09-23.58.56:008][990]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.09-23.58.56:008][990]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.09-23.58.56:008][990]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.09-23.58.56:139][990]LogExit: Object subsystem successfully closed.
+[2018.02.09-23.58.56:169][990]LogD3D11RHI: Shutdown
+[2018.02.09-23.58.56:170][990]LogD3D11RHI: CleanupD3DDevice
+[2018.02.09-23.58.56:174][990]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.09-23.58.56:196][990]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (556)
+[2018.02.09-23.58.56:196][990]LogModuleManager: Shutting down and abandoning module SequencerWidgets (554)
+[2018.02.09-23.58.56:196][990]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.02.09-23.58.56:196][990]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.02.09-23.58.56:196][990]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.02.09-23.58.56:196][990]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.02.09-23.58.56:196][990]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.02.09-23.58.56:202][990]LogDirectoryWatcher: A directory notification for 'C:/Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/Collections/' was aborted.
+[2018.02.09-23.58.56:202][990]LogDirectoryWatcher: A directory notification for 'C:/Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Content/Developers/MagicUser/Collections/' was aborted.
+[2018.02.09-23.58.56:202][990]LogDirectoryWatcher: A directory notification for 'C:/Users/MagicUser/Documents/Unreal Projects/MeteorVR-master/Meteor/Saved/Collections/' was aborted.
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.09-23.58.56:202][990]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.09-23.58.56:203][990]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.09-23.58.56:204][990]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.09-23.58.56:204][990]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.09-23.58.56:815][990]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.09-23.58.56:816][990]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.09-23.58.56:816][990]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.09-23.58.56:816][990]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.09-23.58.56:816][990]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.09-23.58.56:816][990]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.09-23.58.56:816][990]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.09-23.58.56:816][990]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.09-23.58.56:889][990]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.09-23.58.56:889][990]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.09-23.58.56:889][990]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.09-23.58.56:889][990]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.09-23.58.56:889][990]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.09-23.58.56:889][990]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.09-23.58.56:890][990]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.09-23.58.56:890][990]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.09-23.58.56:890][990]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.09-23.58.56:890][990]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.09-23.58.56:898][990]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.09-23.58.56:900][990]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.02.09-23.58.56:901][990]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.02.09-23.58.57:082][990]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.02.09-23.58.57:082][990]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.02.09-23.58.57:082][990]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.02.09-23.58.57:082][990]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.02.09-23.58.57:082][990]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.02.09-23.58.57:082][990]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.02.09-23.58.57:082][990]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.02.09-23.58.57:082][990]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.02.09-23.58.57:082][990]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.02.09-23.58.57:082][990]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.02.09-23.58.57:083][990]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.02.09-23.58.57:085][990]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.02.09-23.58.57:085][990]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.02.09-23.58.57:085][990]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.02.09-23.58.57:085][990]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.09-23.58.57:085][990]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.09-23.58.57:085][990]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.09-23.58.57:085][990]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.09-23.58.57:085][990]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.09-23.58.57:085][990]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.09-23.58.57:085][990]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.09-23.58.57:086][990]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.09-23.58.57:186][990]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.09-23.58.57:287][990]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.09-23.58.57:287][990]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.09-23.58.57:287][990]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.09-23.58.57:287][990]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.09-23.58.57:287][990]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.09-23.58.57:288][990]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.09-23.58.57:289][990]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.09-23.58.57:289][990]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.09-23.58.57:289][990]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.09-23.58.57:289][990]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.09-23.58.57:289][990]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.09-23.58.57:290][990]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.09-23.58.57:290][990]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.09-23.58.57:290][990]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.09-23.58.57:290][990]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.09-23.58.57:290][990]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.09-23.58.57:296][990]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.09-23.58.57:299][990]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.09-23.58.57:300][990]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.09-23.58.57:300][990]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.09-23.58.57:300][990]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.09-23.58.57:300][990]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.09-23.58.57:300][990]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.09-23.58.57:300][990]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.09-23.58.57:300][990]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.09-23.58.57:306][990]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.09-23.58.57:306][990]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.09-23.58.57:306][990]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.09-23.58.57:306][990]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.09-23.58.57:306][990]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.09-23.58.57:306][990]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.09-23.58.57:307][990]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.09-23.58.57:307][990]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.09-23.58.57:307][990]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.09-23.58.57:359][990]LogDerivedDataCache: Shutdown
+[2018.02.09-23.58.57:359][990]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.09-23.58.57:360][990]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.09-23.58.57:361][990]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.09-23.58.57:362][990]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.09-23.58.57:362][990]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.09-23.58.57:362][990]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.09-23.58.57:362][990]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4F63661C-4F44-6199-46BE-37ABCB8BBC7F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=895f7c7740e76159dcfb9aa81c90874b%7C220a8966469c4433894828032f672be2%7Cd89a685d-a724-415b-bbf1-3ac34811164a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.09-23.58.57:371][990]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.09-23.58.57:373][990]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.09-23.58.57:373][990]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.09-23.58.57:373][990]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.09-23.58.57:373][990]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.09-23.58.57:373][990]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.09-23.58.57:373][990]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.09-23.58.57:373][990]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.09-23.58.57:377][990]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.09-23.58.57:377][990]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.09-23.58.57:377][990]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.09-23.58.57:377][990]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.09-23.58.57:377][990]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.09-23.58.57:377][990]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.09-23.58.57:377][990]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.09-23.58.57:377][990]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.09-23.58.57:377][990]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.09-23.58.57:377][990]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.09-23.58.57:377][990]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.09-23.58.57:380][990]LogExit: Exiting.
+[2018.02.09-23.58.57:402][990]Log file closed, 02/09/18 18:58:57
