@@ -1,0 +1,961 @@
+﻿Log file open, 03/21/18 10:20:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Meteor
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1391114295) SRandInit(-1391114295).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.183899
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.21-14.20.29:186][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.21-14.20.29:186][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.21-14.20.29:228][  0]LogInit: Computer: IGM2350-11
+[2018.03.21-14.20.29:228][  0]LogInit: User: bcm2463
+[2018.03.21-14.20.29:228][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.03.21-14.20.29:228][  0]LogInit: High frequency timer resolution =3.515625 MHz
+[2018.03.21-14.20.29:228][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.21-14.20.29:228][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.21-14.20.29:228][  0]LogMemory: Process Physical Memory: 274.88 MB used, 274.88 MB peak
+[2018.03.21-14.20.29:228][  0]LogMemory: Process Virtual Memory: 270.22 MB used, 270.22 MB peak
+[2018.03.21-14.20.29:228][  0]LogMemory: Physical Memory: 3470.82 MB used,  12797.48 MB free, 16268.30 MB total
+[2018.03.21-14.20.29:228][  0]LogMemory: Virtual Memory: 675.06 MB used,  12797.48 MB free, 134217728.00 MB total
+[2018.03.21-14.20.29:578][  0]LogInit: Using OS detected language (en-US).
+[2018.03.21-14.20.29:578][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.21-14.20.29:628][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.21-14.20.30:054][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.21-14.20.32:016][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.21-14.20.32:052][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780' (Feature Level 11_0)
+[2018.03.21-14.20.32:052][  0]LogD3D11RHI:       3039/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.21-14.20.32:059][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.03.21-14.20.32:059][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.21-14.20.32:062][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.21-14.20.32:062][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.21-14.20.32:062][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.21-14.20.32:066][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.21-14.20.32:066][  0]LogD3D11RHI:     GPU DeviceId: 0x1004 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.21-14.20.32:066][  0]LogWindows: EnumDisplayDevices:
+[2018.03.21-14.20.32:066][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780' (P:1 D:1)
+[2018.03.21-14.20.32:067][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780' (P:0 D:1)
+[2018.03.21-14.20.32:067][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2018.03.21-14.20.32:067][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2018.03.21-14.20.32:067][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.21-14.20.32:067][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.21-14.20.32:067][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.03.21-14.20.32:067][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.21-14.20.32:067][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780
+[2018.03.21-14.20.32:067][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.21-14.20.32:067][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.21-14.20.32:067][  0]LogRHI: Texture pool is 2127 MB (70% of 3039 MB)
+[2018.03.21-14.20.32:087][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.21-14.20.32:099][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.21-14.20.32:102][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Intermediate/Shaders/WorkingDirectory/4516/).
+[2018.03.21-14.20.32:102][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'D:/Profiles/bcm2463/AppData/Local/Temp/UnrealShaderWorkingDir/B6AE04A04FE83E346755B8B88681B712/'.
+[2018.03.21-14.20.32:102][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.21-14.20.34:824][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.21-14.20.34:872][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.21-14.20.34:914][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.21-14.20.34:957][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.21-14.20.35:002][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.21-14.20.35:046][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.21-14.20.35:089][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.21-14.20.35:130][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.21-14.20.35:169][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.21-14.20.35:214][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.21-14.20.35:257][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.21-14.20.35:298][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.21-14.20.35:341][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.21-14.20.35:381][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.21-14.20.35:465][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.21-14.20.35:465][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.21-14.20.35:510][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.21-14.20.35:540][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.21-14.20.35:657][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.21-14.20.35:681][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.21-14.20.35:722][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.21-14.20.35:763][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.21-14.20.35:807][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.21-14.20.35:851][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.21-14.20.35:851][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.21-14.20.36:674][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.21-14.20.36:960][  0]LogDerivedDataCache: Loaded boot cache 0.29s 78MB D:/Profiles/bcm2463/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.21-14.20.36:960][  0]LogDerivedDataCache: Display: Loaded Boot cache: D:/Profiles/bcm2463/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.21-14.20.36:960][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.21-14.20.36:960][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.21-14.20.36:961][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.21-14.20.36:961][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.21-14.20.36:983][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.21-14.20.36:995][  0]LogDerivedDataCache: Using Local data cache path D:/Profiles/bcm2463/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.21-14.20.37:004][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.21-14.20.37:005][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.21-14.20.37:020][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.21-14.20.37:020][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.21-14.20.41:538][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.21-14.20.42:094][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.21-14.20.42:136][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.21-14.20.42:136][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.21-14.20.42:136][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.21-14.20.42:136][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.21-14.20.42:136][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.21-14.20.42:182][  0]LogNetVersion: Meteor , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2481781071)
+[2018.03.21-14.20.42:478][  0]LogAssetRegistry: FAssetRegistry took 0.0286 seconds to start up
+[2018.03.21-14.20.59:158][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 15.721977 seconds
+[2018.03.21-14.20.59:165][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.03.21-14.20.59:165][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.03.21-14.20.59:165][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.21-14.20.59:220][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.21-14.21.04:031][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.21-14.21.05:046][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.21-14.21.05:047][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.03.21-14.21.05:669][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.21-14.21.06:032][  0]SourceControl: Source control is disabled
+[2018.03.21-14.21.06:032][  0]SourceControl: Source control is disabled
+[2018.03.21-14.21.06:080][  0]SourceControl: Source control is disabled
+[2018.03.21-14.21.06:124][  0]SourceControl: Source control is disabled
+[2018.03.21-14.21.06:840][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.21-14.21.07:068][  0]LogOcInput: OculusInput pre-init called
+[2018.03.21-14.21.07:312][  0]LogEngine: Initializing Engine...
+[2018.03.21-14.21.07:314][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.21-14.21.07:496][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.21-14.21.07:497][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.21-14.21.07:596][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.21-14.21.07:609][  0]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.21-14.21.07:669][  0]LogInit: FAudioDevice initialized.
+[2018.03.21-14.21.07:760][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB D:/Profiles/bcm2463/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.21-14.21.07:772][  0]LogInit: Texture streaming: Enabled
+[2018.03.21-14.21.07:851][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.21-14.21.08:451][  0]LogInit: Transaction tracking system initialized
+[2018.03.21-14.21.08:742][  0]BlueprintLog: New page: Editor Load
+[2018.03.21-14.21.09:691][  0]LocalizationService: Localization service is disabled
+[2018.03.21-14.21.10:600][  0]LogConsoleResponse: Display: 
+[2018.03.21-14.21.11:025][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.21-14.21.11:025][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.21-14.21.11:025][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.21-14.21.11:799][  0]LogFileCache: Scanning file cache for directory 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/' took 0.21s
+[2018.03.21-14.21.12:425][  0]SourceControl: Source control is disabled
+[2018.03.21-14.21.12:425][  0]Cmd: MAP LOAD FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/TestMaps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.21-14.21.12:441][  0]LightingResults: New page: Lighting Build
+[2018.03.21-14.21.12:487][  0]MapCheck: New page: Map Check
+[2018.03.21-14.21.12:487][  0]LightingResults: New page: Lighting Build
+[2018.03.21-14.21.14:388][  0]LogStaticMesh: Building static mesh SM_Rock...
+[2018.03.21-14.21.14:391][  0]LogTexture: Display: Building textures: T_Rock_BC (AutoDXT, 1080X1080)
+[2018.03.21-14.21.14:391][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Content/Meshes/SM_Rock.SM_Rock
+[2018.03.21-14.21.15:273][  0]LogTexture: Display: Building textures: T_Rock_N (BC5, 4096X4096)
+[2018.03.21-14.21.17:768][  0]LogTexture: Display: Building textures: ICON_Rock_Small (AutoDXT, 128X128)
+[2018.03.21-14.21.17:768][  0]LogTexture: Display: Building textures: ICON_Stick_Small (AutoDXT, 128X128)
+[2018.03.21-14.21.17:768][  0]LogTexture: Display: Building textures: T_Stick_BC (AutoDXT, 1024X1024)
+[2018.03.21-14.21.17:768][  0]LogTexture: Display: Building textures: ICON_Axe_Small (AutoDXT, 128X128)
+[2018.03.21-14.21.17:768][  0]LogTexture: Display: Building textures: T_Axe_BM (BC5, 1080X1080)
+[2018.03.21-14.21.17:768][  0]LogTexture: Display: Building textures: T_Axe_BC (AutoDXT, 1080X1080)
+[2018.03.21-14.21.17:771][  0]LogTexture: Display: Building textures: ICON_FishingRod_Small (AutoDXT, 128X128)
+[2018.03.21-14.21.17:771][  0]LogMaterial: Missing cached shader map for material M_Rock, compiling. 
+[2018.03.21-14.21.18:054][  0]LogMaterial: Missing cached shader map for material M_Stick, compiling. 
+[2018.03.21-14.21.18:104][  0]LogStaticMesh: Building static mesh SM_Stick...
+[2018.03.21-14.21.18:109][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Content/Meshes/SM_Stick.SM_Stick
+[2018.03.21-14.21.18:722][  0]LogMaterial: Missing cached shader map for material M_Axe, compiling. 
+[2018.03.21-14.21.18:749][  0]LogStaticMesh: Building static mesh SM_Axe...
+[2018.03.21-14.21.18:764][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Content/Meshes/SM_Axe.SM_Axe
+[2018.03.21-14.21.19:064][  0]LogAIModule: Creating AISystem for world Main
+[2018.03.21-14.21.19:074][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.21-14.21.19:101][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.21-14.21.19:183][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 82.799ms to complete.
+[2018.03.21-14.21.19:184][  0]LogFileHelpers: Loading map 'Main' took 6.759
+[2018.03.21-14.21.19:410][  0]LogCollectionManager: Loaded 0 collections in 0.003323 seconds
+[2018.03.21-14.21.19:535][  0]LogFileCache: Scanning file cache for directory 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Collections/' took 0.01s
+[2018.03.21-14.21.19:535][  0]LogFileCache: Scanning file cache for directory 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Developers/bcm2463/Collections/' took 0.01s
+[2018.03.21-14.21.19:535][  0]LogFileCache: Scanning file cache for directory 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Collections/' took 0.01s
+[2018.03.21-14.21.19:535][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.21-14.21.19:548][  0]LogContentBrowser: Native class hierarchy populated in 0.0131 seconds. Added 2363 classes and 519 folders.
+[2018.03.21-14.21.19:631][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.21-14.21.20:060][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.21-14.21.20:117][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.21-14.21.20:160][  0]LogSlate: Took 0.009543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.21-14.21.20:168][  0]LogSlate: Took 0.005856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.21-14.21.20:180][  0]LogSlate: Took 0.006552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.21-14.21.20:372][  0]LogRenderer: Reallocating scene render targets to support 960x556 Format 10 NumSamples 1 (Frame:1).
+[2018.03.21-14.21.20:847][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.21-14.21.20:847][  0]LogLoad: (Engine Initialization) Total time: 58.16 seconds
+[2018.03.21-14.21.20:847][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.21-14.21.20:847][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.21-14.21.20:847][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.21-14.21.21:227][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.03.21-14.21.21:233][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/', and we were unable to create a new request.
+[2018.03.21-14.21.21:233][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.03.21-14.21.21:233][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Developers/bcm2463/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.03.21-14.21.21:233][  0]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.03.21-14.21.21:234][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.21-14.21.21:268][  0]LogSlate: Took 0.005509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.21-14.21.21:522][  1]LogFileCache: Retrieving MD5 hashes for directory 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/' took 0.32s
+[2018.03.21-14.21.21:539][  1]LogAssetRegistry: Asset discovery search completed in 39.0824 seconds
+[2018.03.21-14.21.21:542][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.03.21-14.21.21:542][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000073 seconds (updated 0 objects)
+[2018.03.21-14.21.21:542][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.03.21-14.21.21:543][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Collections/', and we were unable to create a new request.
+[2018.03.21-14.21.21:543][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Developers/bcm2463/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.03.21-14.21.21:544][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Developers/bcm2463/Collections/', and we were unable to create a new request.
+[2018.03.21-14.21.21:544][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2018.03.21-14.21.21:545][  1]LogDirectoryWatcher: A directory notification failed for 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Collections/', and we were unable to create a new request.
+[2018.03.21-14.21.22:195][  3]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.21-14.21.26:610][ 16]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.21-14.21.27:135][ 16]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 116 classes and 0 folders.
+[2018.03.21-14.21.30:014][ 16]LogSlate: Took 0.006640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.21-14.21.49:377][ 81]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.21-14.21.49:479][ 84]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Meteor
+[2018.03.21-14.21.49:479][ 84]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.21-14.21.49:479][ 84]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.03.21-14.21.49:479][ 84]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.21-14.21.49:483][ 84]LogTemp: BranchPath = IGM2350-11/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = IGM2350-11/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.03.21-14.21.49:506][ 84]LogTemp: IPP ERROR: Could not find provision directory 'D:\Profiles\bcm2463\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.21-14.22.26:902][405]LogLinker: Warning: Can't find file '/Game/Content/Maps/FinalMaps/Plains_BuiltData'
+[2018.03.21-14.22.26:902][405]LogLinker: Warning: Can't find file for asset '/Game/Content/Maps/FinalMaps/Plains_BuiltData' while loading Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap.
+[2018.03.21-14.22.26:902][405]LoadErrors: Error: /Game/Content/Maps/FinalMaps/Plains : Can't find file for asset. /Game/Content/Maps/FinalMaps/Plains_BuiltData
+[2018.03.21-14.22.27:070][405]LogLinker: Warning: Can't find file '/Game/Content/Maps/FinalMaps/Plains_BuiltData'
+[2018.03.21-14.22.27:070][405]LogLinker: Warning: Can't find file for asset '/Game/Content/Maps/FinalMaps/Plains_BuiltData' while loading Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap.
+[2018.03.21-14.22.27:094][405]LogLinker: Warning: Can't find file '/Game/Content/Maps/FinalMaps/Plains_BuiltData'
+[2018.03.21-14.22.27:094][405]LoadErrors: Failed to load /Game/Content/Maps/FinalMaps/Plains_BuiltData.Plains_BuiltData Referenced by PersistentLevel
+[2018.03.21-14.22.27:094][405]LogLinker: Warning: Can't find file for asset '/Game/Content/Maps/FinalMaps/Plains_BuiltData' while loading NULL.
+[2018.03.21-14.22.27:190][405]LogAIModule: Creating AISystem for world Plains
+[2018.03.21-14.22.27:231][405]Cmd: MAP LOAD FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.21-14.22.27:231][405]LightingResults: New page: Lighting Build
+[2018.03.21-14.22.27:231][405]LoadErrors: New page: Loading map: Plains.umap
+[2018.03.21-14.22.27:234][405]MapCheck: New page: Map Check
+[2018.03.21-14.22.27:234][405]LightingResults: New page: Lighting Build
+[2018.03.21-14.22.27:268][405]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.21-14.22.27:358][405]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.21-14.22.27:501][405]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 142.328ms to complete.
+[2018.03.21-14.22.27:502][405]LogFileHelpers: Loading map 'Plains' took 0.272
+[2018.03.21-14.22.28:724][544]MapCheck: New page: Map Check
+[2018.03.21-14.22.28:737][544]Cmd: MAP REBUILD ALLVISIBLE
+[2018.03.21-14.22.28:737][544]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.03.21-14.22.28:872][544]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.03.21-14.22.28:879][544]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GenericHMDMaterial, compiling. 
+[2018.03.21-14.22.28:885][544]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Grime, compiling. 
+[2018.03.21-14.22.28:891][544]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.03.21-14.22.28:898][544]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.03.21-14.22.28:905][544]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rock, compiling. 
+[2018.03.21-14.22.28:913][544]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Stick, compiling. 
+[2018.03.21-14.22.28:921][544]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FishingRod, compiling. 
+[2018.03.21-14.22.28:929][544]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Axe, compiling. 
+[2018.03.21-14.22.28:936][544]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.03.21-14.22.29:811][544]TextureStreamingBuild: Display: Compiling optional shaders took 0.945 seconds.
+[2018.03.21-14.22.29:835][544]LogLevel: Display: Export Material TexCoord Scales took 0.024 seconds.
+[2018.03.21-14.22.29:845][544]TextureStreamingBuild: Display: Build Texture Streaming took 0.010 seconds.
+[2018.03.21-14.22.29:868][544]LightingResults: New page: Lighting Build - Mar 21, 2018, 6:22:29 AM
+[2018.03.21-14.22.29:988][544]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.03.21-14.22.30:137][544]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.03.21-14.22.30:153][544]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.03.21-14.22.31:195][544]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.03.21-14.22.31:195][544]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4516
+[2018.03.21-14.22.31:703][544]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.03.21-14.22.31:703][544]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.03.21-14.22.31:703][544]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.03.21-14.22.31:703][544]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.03.21-14.22.31:703][544]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.03.21-14.22.31:703][544]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.03.21-14.22.31:837][544]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.03.21-14.22.31:837][544]MapCheck: New page: Plains - Mar 21, 2018, 6:22:31 AM
+[2018.03.21-14.22.31:838][544]MapCheck: Warning: Glub_pCube10 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.22.31:839][544]MapCheck: Warning: Glub_pCube11 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.22.31:839][544]MapCheck: Warning: Glub_pCube12 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.22.31:839][544]MapCheck: Warning: Glub_pCube8_14 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.22.31:839][544]MapCheck: Warning: Glub_pCube9 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.22.31:839][544]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2018.03.21-14.22.31:906][544]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 68.996ms to complete.
+[2018.03.21-14.22.31:928][544]LogEditorBuildUtils: Build time 0:03
+[2018.03.21-14.22.31:940][544]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2018.03.21-14.22.31:947][544]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2018.03.21-14.22.31:988][545]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer GenericHMDMaterial, compiling. 
+[2018.03.21-14.22.31:996][545]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer GenericHMDMaterial, compiling. 
+[2018.03.21-14.22.34:578][673]Job is a success!
+[2018.03.21-14.22.34:673][674]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.066s
+[2018.03.21-14.22.34:673][674]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.03.21-14.22.34:673][674]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.03.21-14.22.34:673][674]LogVolumetricLightmapImport:      Bricks at Level
+[2018.03.21-14.22.34:673][674]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.03.21-14.22.34:673][674]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.03.21-14.22.34:673][674]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.03.21-14.22.34:748][674]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.03.21-14.22.34:748][674]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.03.21-14.22.34:748][674]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.03.21-14.22.34:748][674]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.03.21-14.22.34:748][674]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 32X32)
+[2018.03.21-14.22.34:748][674]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X64)
+[2018.03.21-14.22.34:784][674]Lightmass on IGM2350-11: 1.33 sec total, 153 ms importing, 17 ms setup, 181 ms photons, 514 ms processing, 0 ms extra exporting [5/5 mappings]. Threads: 2.02 sec total, 544 ms processing.
+[2018.03.21-14.22.34:820][674]LogStaticLightingSystem: Illumination: 4.94 sec (40 ms encoding lightmaps, 23 ms encoding shadowmaps)
+[2018.03.21-14.22.34:820][674]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.03.21-14.22.34:820][674]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.03.21-14.22.35:707][674]DumpUnbuiltLightIteractions
+[2018.03.21-14.22.35:707][674]Lights with unbuilt interactions: 0
+[2018.03.21-14.22.35:707][674]
+[2018.03.21-14.22.35:707][674]Primitives with unbuilt interactions: 0
+[2018.03.21-14.22.35:756][675]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.03.21-14.22.35:756][675]MapCheck: New page: Plains - Mar 21, 2018, 6:22:35 AM
+[2018.03.21-14.22.35:756][675]MapCheck: Warning: Glub_pCube10 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.22.35:756][675]MapCheck: Warning: Glub_pCube11 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.22.35:756][675]MapCheck: Warning: Glub_pCube12 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.22.35:756][675]MapCheck: Warning: Glub_pCube8_14 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.22.35:757][675]MapCheck: Warning: Glub_pCube9 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.22.35:819][675]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 63.485ms to complete.
+[2018.03.21-14.23.11:951][902]LogSavePackage: Save=781.53ms
+[2018.03.21-14.23.11:951][902]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Plains62775069429A1F8472D263ABE17AD660.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap'
+[2018.03.21-14.23.11:994][902]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap
+[2018.03.21-14.23.12:071][902]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.21-14.23.12:076][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Maps/FinalMaps/Plains_BuiltData" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset" SILENT=true
+[2018.03.21-14.23.12:853][902]LogSavePackage: Save=198.60ms
+[2018.03.21-14.23.12:854][902]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Plains_BuiltData343E55AA4F92AD3348DE8793B11E457C.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset'
+[2018.03.21-14.23.12:876][902]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset
+[2018.03.21-14.23.24:434][231]LogSlate: Took 0.004518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.21-14.31.14:543][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/BP_Axe" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_Axe.uasset" SILENT=true
+[2018.03.21-14.31.14:788][  9]LogSavePackage: Save=148.30ms
+[2018.03.21-14.31.14:788][  9]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/BP_Axe17C1376E476871F41D2E8A9BCC364CC4.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_Axe.uasset'
+[2018.03.21-14.31.14:838][  9]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_Axe.uasset
+[2018.03.21-14.31.15:184][ 50]BlueprintLog: New page: Compile BP_Axe
+[2018.03.21-14.32.24:291][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/BP_Rock" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_Rock.uasset" SILENT=true
+[2018.03.21-14.32.24:686][  9]LogSavePackage: Save=290.44ms
+[2018.03.21-14.32.24:686][  9]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/BP_Rock5140B0604D6603D3D5D6D5BBA4E6EC19.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_Rock.uasset'
+[2018.03.21-14.32.24:729][  9]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_Rock.uasset
+[2018.03.21-14.32.25:063][ 49]BlueprintLog: New page: Compile BP_Rock
+[2018.03.21-14.32.30:382][483]LogSavePackage: Save=773.50ms
+[2018.03.21-14.32.30:382][483]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Plains4CCBE89E4591FCFC9BC88BA8EC2EF503.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap'
+[2018.03.21-14.32.30:442][483]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap
+[2018.03.21-14.32.30:514][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Maps/FinalMaps/Plains_BuiltData" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset" SILENT=true
+[2018.03.21-14.32.30:725][483]LogSavePackage: Save=129.90ms
+[2018.03.21-14.32.30:725][483]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Plains_BuiltData6D2AE92A4CE05A21EF35D7B4688189D5.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset'
+[2018.03.21-14.32.30:759][483]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset
+[2018.03.21-14.32.51:906][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/BP_Rock" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_Rock.uasset" SILENT=true
+[2018.03.21-14.32.52:253][924]LogSavePackage: Save=263.58ms
+[2018.03.21-14.32.52:253][924]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/BP_Rock78B4C1F34EB69F2C07B088B16EDE8F86.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_Rock.uasset'
+[2018.03.21-14.32.52:299][924]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_Rock.uasset
+[2018.03.21-14.32.53:188][ 31]BlueprintLog: New page: Compile BP_Rock
+[2018.03.21-14.33.08:815][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/BP_Stick" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_Stick.uasset" SILENT=true
+[2018.03.21-14.33.09:087][744]LogSavePackage: Save=166.14ms
+[2018.03.21-14.33.09:087][744]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/BP_Stick75183E4F4D4B8E981D2395B1E481D330.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_Stick.uasset'
+[2018.03.21-14.33.09:129][744]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_Stick.uasset
+[2018.03.21-14.33.09:470][784]BlueprintLog: New page: Compile BP_Stick
+[2018.03.21-14.33.16:781][442]LogSavePackage: Save=706.07ms
+[2018.03.21-14.33.16:781][442]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Plains77A660D342983F3F5A1C95AD206DB6F4.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap'
+[2018.03.21-14.33.16:825][442]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap
+[2018.03.21-14.33.16:925][442]LogFileHelpers: Saving map 'Plains' took 1.212
+[2018.03.21-14.33.16:949][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/BP_FishingRod" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_FishingRod.uasset" SILENT=true
+[2018.03.21-14.33.17:334][442]LogSavePackage: Save=296.61ms
+[2018.03.21-14.33.17:334][442]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/BP_FishingRod2754848142E13E0B61C54B999D4C827E.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_FishingRod.uasset'
+[2018.03.21-14.33.17:369][442]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_FishingRod.uasset
+[2018.03.21-14.33.27:837][685]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.21-14.33.29:550][882]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.21-14.33.30:569][990]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.21-14.34.28:820][225]LogSavePackage: Save=1721.28ms
+[2018.03.21-14.34.28:820][225]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/MotionControllerPawnC81C7EE246A7EBACEACAEEA7421D9416.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.03.21-14.34.28:865][225]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.03.21-14.34.29:342][280]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.03.21-14.34.32:643][498]LogSavePackage: Save=680.67ms
+[2018.03.21-14.34.32:643][498]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/PlainsDDC39E09437928CDF0E35A81106E08D5.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap'
+[2018.03.21-14.34.32:713][498]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap
+[2018.03.21-14.34.32:787][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Maps/FinalMaps/Plains_BuiltData" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset" SILENT=true
+[2018.03.21-14.34.33:059][498]LogSavePackage: Save=152.83ms
+[2018.03.21-14.34.33:059][498]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Plains_BuiltDataA50B64044AB835EFBFA603893FF13DA9.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset'
+[2018.03.21-14.34.33:088][498]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset
+[2018.03.21-14.34.39:018][823]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.21-14.34.39:033][823]LogPlayLevel: [PlayLevel] Compiling BP_FishingRod before play...
+[2018.03.21-14.34.39:328][823]LogPlayLevel: PlayLevel: Blueprint regeneration took 309 ms (1 blueprints)
+[2018.03.21-14.34.39:328][823]PIE: New page: PIE session: Plains (Mar 21, 2018, 6:34:39 AM)
+[2018.03.21-14.34.39:328][823]LogPlayLevel: Creating play world package: /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains
+[2018.03.21-14.34.39:345][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017230s)
+[2018.03.21-14.34.39:346][823]LogAIModule: Creating AISystem for world Plains
+[2018.03.21-14.34.39:346][823]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2018.03.21-14.34.39:346][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/FinalMaps/Plains.Plains to /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains (0.018344s)
+[2018.03.21-14.34.39:381][823]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.21-14.34.39:387][823]LogInit: FAudioDevice initialized.
+[2018.03.21-14.34.39:430][823]LogLoad: Game class is 'GameModeBase'
+[2018.03.21-14.34.39:433][823]LogWorld: Bringing World /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains up for play (max tick rate 0) at 2018.03.21-10.34.39
+[2018.03.21-14.34.39:433][823]LogWorld: Bringing up level for play took: 0.002429
+[2018.03.21-14.34.39:495][823]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0034 seconds. Added 11 classes and 0 folders.
+[2018.03.21-14.34.39:502][823]PIE: Play in editor start time for /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains 0.709
+[2018.03.21-14.34.39:507][823]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMeshComponent0. Please use the Teleport flag
+[2018.03.21-14.35.07:403][705]LogEditorViewport: Clicking on Actor (LMB): BP_Menu_C (BP_Menu)
+[2018.03.21-14.35.15:666][340]LogEditorViewport: Clicking on Actor (LMB): BP_Menu_C (BP_Menu)
+[2018.03.21-14.35.40:153][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.21-14.35.41:216][ 80]LogEditorViewport: Clicking on Actor (LMB): BP_Menu_C (BP_Menu)
+[2018.03.21-14.35.49:465][633]LogSavePackage: Save=2586.93ms
+[2018.03.21-14.35.49:465][633]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/BP_MotionControllerAD3EF5894FEB0571482CE6BBB7F8B3C5.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.03.21-14.35.49:519][633]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2018.03.21-14.35.54:307][104]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.21-14.35.54:336][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-14.35.54:336][104]PIE: New page: PIE session: Plains (Mar 21, 2018, 6:35:54 AM)
+[2018.03.21-14.35.54:336][104]LogPlayLevel: Creating play world package: /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains
+[2018.03.21-14.35.54:345][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009400s)
+[2018.03.21-14.35.54:346][104]LogAIModule: Creating AISystem for world Plains
+[2018.03.21-14.35.54:346][104]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2018.03.21-14.35.54:346][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/FinalMaps/Plains.Plains to /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains (0.010497s)
+[2018.03.21-14.35.54:378][104]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.21-14.35.54:384][104]LogInit: FAudioDevice initialized.
+[2018.03.21-14.35.54:417][104]LogLoad: Game class is 'GameModeBase'
+[2018.03.21-14.35.54:419][104]LogWorld: Bringing World /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains up for play (max tick rate 0) at 2018.03.21-10.35.54
+[2018.03.21-14.35.54:419][104]LogWorld: Bringing up level for play took: 0.001960
+[2018.03.21-14.35.54:424][104]PIE: Play in editor start time for /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains -0.37
+[2018.03.21-14.35.54:427][104]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMeshComponent0. Please use the Teleport flag
+[2018.03.21-14.36.32:631][568]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.21-14.36.32:660][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-14.36.32:660][568]PIE: New page: PIE session: Plains (Mar 21, 2018, 6:36:32 AM)
+[2018.03.21-14.36.32:660][568]LogPlayLevel: Creating play world package: /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains
+[2018.03.21-14.36.32:665][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004845s)
+[2018.03.21-14.36.32:665][568]LogAIModule: Creating AISystem for world Plains
+[2018.03.21-14.36.32:665][568]LogPlayLevel: PIE: World Init took: (0.000697s)
+[2018.03.21-14.36.32:666][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/FinalMaps/Plains.Plains to /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains (0.005877s)
+[2018.03.21-14.36.32:698][568]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.21-14.36.32:704][568]LogInit: FAudioDevice initialized.
+[2018.03.21-14.36.32:737][568]LogLoad: Game class is 'GameModeBase'
+[2018.03.21-14.36.32:739][568]LogWorld: Bringing World /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains up for play (max tick rate 0) at 2018.03.21-10.36.32
+[2018.03.21-14.36.32:739][568]LogWorld: Bringing up level for play took: 0.002080
+[2018.03.21-14.36.32:744][568]PIE: Play in editor start time for /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains -0.049
+[2018.03.21-14.36.32:747][568]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMeshComponent0. Please use the Teleport flag
+[2018.03.21-14.36.40:793][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/BP_FishingRod" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_FishingRod.uasset" SILENT=true
+[2018.03.21-14.36.41:068][441]LogSavePackage: Save=200.64ms
+[2018.03.21-14.36.41:068][441]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/BP_FishingRodA08815DC49FD2F451F9CFDABBB05FAA7.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_FishingRod.uasset'
+[2018.03.21-14.36.41:109][441]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_FishingRod.uasset
+[2018.03.21-14.36.41:450][482]BlueprintLog: New page: Compile BP_FishingRod
+[2018.03.21-14.36.44:726][820]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.21-14.36.44:764][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-14.36.44:764][820]PIE: New page: PIE session: Plains (Mar 21, 2018, 6:36:44 AM)
+[2018.03.21-14.36.44:765][820]LogPlayLevel: Creating play world package: /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains
+[2018.03.21-14.36.44:770][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005149s)
+[2018.03.21-14.36.44:770][820]LogAIModule: Creating AISystem for world Plains
+[2018.03.21-14.36.44:770][820]LogPlayLevel: PIE: World Init took: (0.000621s)
+[2018.03.21-14.36.44:771][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/FinalMaps/Plains.Plains to /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains (0.006080s)
+[2018.03.21-14.36.44:805][820]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.21-14.36.44:812][820]LogInit: FAudioDevice initialized.
+[2018.03.21-14.36.44:844][820]LogLoad: Game class is 'GameModeBase'
+[2018.03.21-14.36.44:847][820]LogWorld: Bringing World /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains up for play (max tick rate 0) at 2018.03.21-10.36.44
+[2018.03.21-14.36.44:847][820]LogWorld: Bringing up level for play took: 0.003073
+[2018.03.21-14.36.44:853][820]PIE: Play in editor start time for /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains 0.06
+[2018.03.21-14.36.44:857][820]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMeshComponent0. Please use the Teleport flag
+[2018.03.21-14.37.02:764][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Blueprints/BP_FishingRod" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_FishingRod.uasset" SILENT=true
+[2018.03.21-14.37.03:043][886]LogSavePackage: Save=206.20ms
+[2018.03.21-14.37.03:043][886]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/BP_FishingRodF2D0C20D4F4B4A1E4A03419F70183F1E.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_FishingRod.uasset'
+[2018.03.21-14.37.03:088][886]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Blueprints/BP_FishingRod.uasset
+[2018.03.21-14.37.03:537][940]BlueprintLog: New page: Compile BP_FishingRod
+[2018.03.21-14.37.19:831][757]LogSavePackage: Save=627.36ms
+[2018.03.21-14.37.19:831][757]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/PlainsC9AF77AE48C4F94757D5798606717A29.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap'
+[2018.03.21-14.37.19:879][757]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap
+[2018.03.21-14.37.19:959][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Maps/FinalMaps/Plains_BuiltData" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset" SILENT=true
+[2018.03.21-14.37.20:195][757]LogSavePackage: Save=118.70ms
+[2018.03.21-14.37.20:195][757]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Plains_BuiltData06A5DF9743C3DB2066E7478169D74471.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset'
+[2018.03.21-14.37.20:245][757]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset
+[2018.03.21-14.37.24:157][222]MapCheck: New page: Map Check
+[2018.03.21-14.37.24:169][222]Cmd: MAP REBUILD ALLVISIBLE
+[2018.03.21-14.37.24:169][222]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.03.21-14.37.24:211][222]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.03.21-14.37.24:216][222]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GenericHMDMaterial, compiling. 
+[2018.03.21-14.37.24:221][222]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Grime, compiling. 
+[2018.03.21-14.37.24:225][222]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2018.03.21-14.37.24:232][222]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.03.21-14.37.24:237][222]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Axe, compiling. 
+[2018.03.21-14.37.24:244][222]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rock, compiling. 
+[2018.03.21-14.37.24:252][222]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Stick, compiling. 
+[2018.03.21-14.37.24:259][222]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FishingRod, compiling. 
+[2018.03.21-14.37.24:267][222]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.03.21-14.37.25:126][222]TextureStreamingBuild: Display: Compiling optional shaders took 0.918 seconds.
+[2018.03.21-14.37.25:131][222]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2018.03.21-14.37.25:138][222]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2018.03.21-14.37.25:158][222]LightingResults: New page: Lighting Build - Mar 21, 2018, 6:37:25 AM
+[2018.03.21-14.37.25:183][222]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.03.21-14.37.25:184][222]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.03.21-14.37.25:184][222]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.03.21-14.37.25:185][222]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.03.21-14.37.25:185][222]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4516
+[2018.03.21-14.37.25:238][222]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.03.21-14.37.25:238][222]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.03.21-14.37.25:238][222]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.03.21-14.37.25:238][222]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.03.21-14.37.25:238][222]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.03.21-14.37.25:238][222]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.03.21-14.37.25:331][222]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.03.21-14.37.25:332][222]MapCheck: New page: Plains - Mar 21, 2018, 6:37:25 AM
+[2018.03.21-14.37.25:334][222]MapCheck: Warning: Glub_pCube10 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.37.25:334][222]MapCheck: Warning: Glub_pCube11 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.37.25:334][222]MapCheck: Warning: Glub_pCube12 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.37.25:334][222]MapCheck: Warning: Glub_pCube8_14 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.37.25:334][222]MapCheck: Warning: Glub_pCube9 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.37.25:565][222]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 233.137ms to complete.
+[2018.03.21-14.37.25:586][222]LogEditorBuildUtils: Build time 0:01
+[2018.03.21-14.37.26:622][292]Job is a success!
+[2018.03.21-14.37.26:655][293]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.004s
+[2018.03.21-14.37.26:655][293]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.03.21-14.37.26:655][293]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.03.21-14.37.26:656][293]LogVolumetricLightmapImport:      Bricks at Level
+[2018.03.21-14.37.26:656][293]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.03.21-14.37.26:656][293]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.03.21-14.37.26:656][293]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.03.21-14.37.26:715][293]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.03.21-14.37.26:715][293]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.03.21-14.37.26:715][293]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.03.21-14.37.26:715][293]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.03.21-14.37.26:715][293]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 256X64)
+[2018.03.21-14.37.26:715][293]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 32X32)
+[2018.03.21-14.37.26:748][293]Lightmass on IGM2350-11: 683 ms total, 124 ms importing, 17 ms setup, 163 ms photons, 352 ms processing, 0 ms extra exporting [5/5 mappings]. Threads: 1.37 sec total, 415 ms processing.
+[2018.03.21-14.37.26:752][293]LogStaticLightingSystem: Illumination: 1.58 sec (36 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2018.03.21-14.37.26:752][293]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.03.21-14.37.26:752][293]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.03.21-14.37.27:241][293]DumpUnbuiltLightIteractions
+[2018.03.21-14.37.27:241][293]Lights with unbuilt interactions: 0
+[2018.03.21-14.37.27:241][293]
+[2018.03.21-14.37.27:241][293]Primitives with unbuilt interactions: 0
+[2018.03.21-14.37.27:284][294]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.03.21-14.37.27:284][294]MapCheck: New page: Plains - Mar 21, 2018, 6:37:27 AM
+[2018.03.21-14.37.27:285][294]MapCheck: Warning: Glub_pCube10 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.37.27:285][294]MapCheck: Warning: Glub_pCube11 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.37.27:285][294]MapCheck: Warning: Glub_pCube12 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.37.27:285][294]MapCheck: Warning: Glub_pCube8_14 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.37.27:285][294]MapCheck: Warning: Glub_pCube9 SkeletalMeshActor '/Game/Content/Meshes/Dev/Glub/Glub.Glub_pCube8' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2018.03.21-14.37.27:343][294]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 58.543ms to complete.
+[2018.03.21-14.37.30:505][670]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.21-14.37.30:539][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-14.37.30:539][670]PIE: New page: PIE session: Plains (Mar 21, 2018, 6:37:30 AM)
+[2018.03.21-14.37.30:539][670]LogPlayLevel: Creating play world package: /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains
+[2018.03.21-14.37.30:543][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003880s)
+[2018.03.21-14.37.30:544][670]LogAIModule: Creating AISystem for world Plains
+[2018.03.21-14.37.30:544][670]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2018.03.21-14.37.30:544][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/FinalMaps/Plains.Plains to /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains (0.004997s)
+[2018.03.21-14.37.30:572][670]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.21-14.37.30:578][670]LogInit: FAudioDevice initialized.
+[2018.03.21-14.37.30:610][670]LogLoad: Game class is 'GameModeBase'
+[2018.03.21-14.37.30:612][670]LogWorld: Bringing World /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains up for play (max tick rate 0) at 2018.03.21-10.37.30
+[2018.03.21-14.37.30:613][670]LogWorld: Bringing up level for play took: 0.002291
+[2018.03.21-14.37.30:617][670]PIE: Play in editor start time for /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains -0.175
+[2018.03.21-14.37.30:621][670]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMeshComponent0. Please use the Teleport flag
+[2018.03.21-14.38.05:362][607]LogEditorViewport: Clicking on Actor (LMB): BP_Menu_C (BP_Menu)
+[2018.03.21-14.38.08:382][838]LogEditorViewport: Clicking on Actor (LMB): BP_Menu_C (BP_Menu)
+[2018.03.21-14.38.08:886][892]LogEditorViewport: Clicking on Actor (LMB): BP_Menu_C (BP_Menu)
+[2018.03.21-14.38.08:969][898]LogEditorViewport: Clicking on Component (LMB): WidgetComponent (Menu)
+[2018.03.21-14.38.21:187][294]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMeshComponent0. Please use the Teleport flag
+[2018.03.21-14.38.25:235][660]LogEditorViewport: Clicking on Component (LMB): WidgetComponent (Menu)
+[2018.03.21-14.38.31:687][380]LogEditorViewport: Clicking on Actor (LMB): BP_Menu_C (BP_Menu)
+[2018.03.21-14.38.38:441][148]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMeshComponent0. Please use the Teleport flag
+[2018.03.21-14.38.58:479][475]LogEditorViewport: Clicking on Component (LMB): WidgetComponent (Menu)
+[2018.03.21-14.39.09:073][234]LogEditorViewport: Clicking on Actor (LMB): BP_MotionController_C (BP_MotionController1)
+[2018.03.21-14.39.24:190][262]LogEditorViewport: Clicking on Actor (LMB): BP_Menu_C (BP_Menu)
+[2018.03.21-14.39.25:012][327]LogEditorViewport: Clicking on Actor (LMB): BP_Menu_C (BP_Menu)
+[2018.03.21-14.39.35:814][178]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.21-14.39.35:840][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-14.39.35:841][178]PIE: New page: PIE session: Plains (Mar 21, 2018, 6:39:35 AM)
+[2018.03.21-14.39.35:841][178]LogPlayLevel: Creating play world package: /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains
+[2018.03.21-14.39.35:845][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004159s)
+[2018.03.21-14.39.35:846][178]LogAIModule: Creating AISystem for world Plains
+[2018.03.21-14.39.35:846][178]LogPlayLevel: PIE: World Init took: (0.000682s)
+[2018.03.21-14.39.35:846][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/FinalMaps/Plains.Plains to /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains (0.005161s)
+[2018.03.21-14.39.35:872][178]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.21-14.39.35:878][178]LogInit: FAudioDevice initialized.
+[2018.03.21-14.39.35:911][178]LogLoad: Game class is 'GameModeBase'
+[2018.03.21-14.39.35:913][178]LogWorld: Bringing World /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains up for play (max tick rate 0) at 2018.03.21-10.39.35
+[2018.03.21-14.39.35:913][178]LogWorld: Bringing up level for play took: 0.002040
+[2018.03.21-14.39.35:918][178]PIE: Play in editor start time for /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains -0.873
+[2018.03.21-14.39.35:922][178]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMeshComponent0. Please use the Teleport flag
+[2018.03.21-14.40.07:130][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.21-14.40.15:475][847]LogEditorActor: Deleted Actor: Glub_typeMesh_Blueprint_C
+[2018.03.21-14.40.15:475][847]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.03.21-14.40.15:476][847]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.03.21-14.40.15:476][847]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.03.21-14.40.15:476][847]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.03.21-14.40.15:477][847]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.03.21-14.40.15:477][847]LogEditorActor: Deleted Actor: Glub_typeMesh_Blueprint_C
+[2018.03.21-14.40.15:477][847]LogEditorActor: Deleted Actor: Glub_typeMesh_Blueprint_C
+[2018.03.21-14.40.15:478][847]LogEditorActor: Deleted Actor: Glub_typeMesh_Blueprint_C
+[2018.03.21-14.40.15:478][847]LogEditorActor: Deleted Actor: Glub_typeMesh_Blueprint_C
+[2018.03.21-14.40.15:498][847]LogEditorActor: Deleted 10 Actors (0.026 secs)
+[2018.03.21-14.40.21:448][475]LogSavePackage: Save=541.38ms
+[2018.03.21-14.40.21:448][475]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/PlainsD5BAA76A402EA42F6F457D9284D4464C.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap'
+[2018.03.21-14.40.21:490][475]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains.umap
+[2018.03.21-14.40.21:571][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Content/Maps/FinalMaps/Plains_BuiltData" FILE="Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset" SILENT=true
+[2018.03.21-14.40.21:749][475]LogSavePackage: Save=93.94ms
+[2018.03.21-14.40.21:749][475]LogSavePackage: Moving 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Saved/Plains_BuiltDataA4B7F68E43621D3A10B07EA9F5470AEA.tmp' to 'Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset'
+[2018.03.21-14.40.21:810][475]LogSavePackage: Display: Finished SavePackage Z:/IGMProfile/Desktop/GitHub/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Plains_BuiltData.uasset
+[2018.03.21-14.40.22:210][521]MapCheck: New page: Map Check
+[2018.03.21-14.40.22:218][521]Cmd: MAP REBUILD ALLVISIBLE
+[2018.03.21-14.40.22:218][521]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.03.21-14.40.22:260][521]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.03.21-14.40.22:265][521]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy GenericHMDMaterial, compiling. 
+[2018.03.21-14.40.22:270][521]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Grime, compiling. 
+[2018.03.21-14.40.22:276][521]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_4, compiling. 
+[2018.03.21-14.40.22:283][521]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.03.21-14.40.22:289][521]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Axe, compiling. 
+[2018.03.21-14.40.22:295][521]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rock, compiling. 
+[2018.03.21-14.40.22:303][521]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Stick, compiling. 
+[2018.03.21-14.40.22:310][521]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FishingRod, compiling. 
+[2018.03.21-14.40.22:317][521]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.03.21-14.40.23:152][521]TextureStreamingBuild: Display: Compiling optional shaders took 0.895 seconds.
+[2018.03.21-14.40.23:157][521]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2018.03.21-14.40.23:164][521]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2018.03.21-14.40.23:184][521]LightingResults: New page: Lighting Build - Mar 21, 2018, 6:40:23 AM
+[2018.03.21-14.40.23:208][521]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.03.21-14.40.23:210][521]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.03.21-14.40.23:210][521]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.03.21-14.40.23:210][521]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.03.21-14.40.23:210][521]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4516
+[2018.03.21-14.40.23:255][521]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.03.21-14.40.23:256][521]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.03.21-14.40.23:256][521]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.03.21-14.40.23:256][521]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.03.21-14.40.23:256][521]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.03.21-14.40.23:256][521]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.03.21-14.40.23:355][521]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.03.21-14.40.23:355][521]MapCheck: New page: Plains - Mar 21, 2018, 6:40:23 AM
+[2018.03.21-14.40.23:576][521]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 220.957ms to complete.
+[2018.03.21-14.40.23:598][521]LogEditorBuildUtils: Build time 0:01
+[2018.03.21-14.40.24:799][602]Job is a success!
+[2018.03.21-14.40.24:834][603]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.004s
+[2018.03.21-14.40.24:835][603]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.03.21-14.40.24:835][603]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2018.03.21-14.40.24:835][603]LogVolumetricLightmapImport:      Bricks at Level
+[2018.03.21-14.40.24:835][603]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2018.03.21-14.40.24:835][603]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2018.03.21-14.40.24:835][603]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2018.03.21-14.40.24:899][603]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.03.21-14.40.24:899][603]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.03.21-14.40.24:899][603]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.03.21-14.40.24:899][603]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.03.21-14.40.24:899][603]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 256X64)
+[2018.03.21-14.40.24:899][603]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 32X32)
+[2018.03.21-14.40.24:934][603]Lightmass on IGM2350-11: 821 ms total, 144 ms importing, 19 ms setup, 183 ms photons, 440 ms processing, 0 ms extra exporting [5/5 mappings]. Threads: 1.72 sec total, 535 ms processing.
+[2018.03.21-14.40.24:939][603]LogStaticLightingSystem: Illumination: 1.74 sec (40 ms encoding lightmaps, 17 ms encoding shadowmaps)
+[2018.03.21-14.40.24:939][603]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.03.21-14.40.24:939][603]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.03.21-14.40.25:259][603]DumpUnbuiltLightIteractions
+[2018.03.21-14.40.25:260][603]Lights with unbuilt interactions: 0
+[2018.03.21-14.40.25:260][603]
+[2018.03.21-14.40.25:260][603]Primitives with unbuilt interactions: 0
+[2018.03.21-14.40.25:300][604]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.03.21-14.40.25:301][604]MapCheck: New page: Plains - Mar 21, 2018, 6:40:25 AM
+[2018.03.21-14.40.25:360][604]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.745ms to complete.
+[2018.03.21-14.40.27:022][803]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.21-14.40.27:050][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-14.40.27:050][803]PIE: New page: PIE session: Plains (Mar 21, 2018, 6:40:27 AM)
+[2018.03.21-14.40.27:050][803]LogPlayLevel: Creating play world package: /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains
+[2018.03.21-14.40.27:053][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003689s)
+[2018.03.21-14.40.27:054][803]LogAIModule: Creating AISystem for world Plains
+[2018.03.21-14.40.27:054][803]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2018.03.21-14.40.27:054][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/FinalMaps/Plains.Plains to /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains (0.004542s)
+[2018.03.21-14.40.27:081][803]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.21-14.40.27:087][803]LogInit: FAudioDevice initialized.
+[2018.03.21-14.40.27:120][803]LogLoad: Game class is 'GameModeBase'
+[2018.03.21-14.40.27:121][803]LogWorld: Bringing World /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains up for play (max tick rate 0) at 2018.03.21-10.40.27
+[2018.03.21-14.40.27:122][803]LogWorld: Bringing up level for play took: 0.001470
+[2018.03.21-14.40.27:126][803]PIE: Play in editor start time for /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains 0.335
+[2018.03.21-14.40.27:129][803]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMeshComponent0. Please use the Teleport flag
+[2018.03.21-14.40.41:178][460]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.21-14.40.41:205][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-14.40.41:206][460]PIE: New page: PIE session: Plains (Mar 21, 2018, 6:40:41 AM)
+[2018.03.21-14.40.41:206][460]LogPlayLevel: Creating play world package: /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains
+[2018.03.21-14.40.41:209][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003367s)
+[2018.03.21-14.40.41:210][460]LogAIModule: Creating AISystem for world Plains
+[2018.03.21-14.40.41:210][460]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2018.03.21-14.40.41:210][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/FinalMaps/Plains.Plains to /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains (0.004526s)
+[2018.03.21-14.40.41:237][460]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.21-14.40.41:243][460]LogInit: FAudioDevice initialized.
+[2018.03.21-14.40.41:284][460]LogLoad: Game class is 'GameModeBase'
+[2018.03.21-14.40.41:286][460]LogWorld: Bringing World /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains up for play (max tick rate 0) at 2018.03.21-10.40.41
+[2018.03.21-14.40.41:287][460]LogWorld: Bringing up level for play took: 0.002344
+[2018.03.21-14.40.41:287][460]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.21-14.40.41:293][460]PIE: Play in editor start time for /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains 0.502
+[2018.03.21-14.40.41:298][460]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMeshComponent0. Please use the Teleport flag
+[2018.03.21-14.40.41:299][460]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SetBrush', from offset 1611
+[2018.03.21-14.40.41:299][460]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Content/Blueprints/UMG/InventoryMenu.InventoryMenu_C:Construct
+	Function /Game/Content/Blueprints/UMG/InventoryMenu.InventoryMenu_C:ExecuteUbergraph_InventoryMenu
+	Function /Game/Content/Blueprints/UMG/InventoryMenu.InventoryMenu_C:UpdateMenu
+
+[2018.03.21-14.40.41:375][460]LogScriptCore: Warning: Cannot call UnrealScript (HUD /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains:PersistentLevel.HUD_0 - Function /Script/Engine.HUD:ReceiveDrawHUD) while stopped at a breakpoint.
+[2018.03.21-14.40.41:376][460]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.03.21-14.41.32:754][460]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SetBrush', from offset 1611
+[2018.03.21-14.41.32:754][460]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Content/Blueprints/UMG/InventoryMenu.InventoryMenu_C:Construct
+	Function /Game/Content/Blueprints/UMG/InventoryMenu.InventoryMenu_C:ExecuteUbergraph_InventoryMenu
+	Function /Game/Content/Blueprints/UMG/InventoryMenu.InventoryMenu_C:UpdateMenu
+
+[2018.03.21-14.41.43:385][460]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SetBrush', from offset 1611
+[2018.03.21-14.41.43:385][460]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Content/Blueprints/UMG/InventoryMenu.InventoryMenu_C:Construct
+	Function /Game/Content/Blueprints/UMG/InventoryMenu.InventoryMenu_C:ExecuteUbergraph_InventoryMenu
+	Function /Game/Content/Blueprints/UMG/InventoryMenu.InventoryMenu_C:UpdateMenu
+
+[2018.03.21-14.42.34:771][957]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.21-14.42.34:801][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.21-14.42.34:801][957]PIE: New page: PIE session: Plains (Mar 21, 2018, 6:42:34 AM)
+[2018.03.21-14.42.34:801][957]LogPlayLevel: Creating play world package: /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains
+[2018.03.21-14.42.34:805][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003730s)
+[2018.03.21-14.42.34:805][957]LogAIModule: Creating AISystem for world Plains
+[2018.03.21-14.42.34:806][957]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2018.03.21-14.42.34:806][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Content/Maps/FinalMaps/Plains.Plains to /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains (0.004958s)
+[2018.03.21-14.42.34:835][957]LogInit: XAudio2 using 'Digital Audio (S/PDIF) (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.21-14.42.34:841][957]LogInit: FAudioDevice initialized.
+[2018.03.21-14.42.34:885][957]LogLoad: Game class is 'GameModeBase'
+[2018.03.21-14.42.34:887][957]LogWorld: Bringing World /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains up for play (max tick rate 0) at 2018.03.21-10.42.34
+[2018.03.21-14.42.34:887][957]LogWorld: Bringing up level for play took: 0.002029
+[2018.03.21-14.42.34:887][957]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.03.21-14.42.34:895][957]PIE: Play in editor start time for /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains 0.111
+[2018.03.21-14.42.34:899][957]PIE: Warning: Attempting to move a fully simulated skeletal mesh SkeletalMeshComponent0. Please use the Teleport flag
+[2018.03.21-14.42.34:900][957]LogBlueprintDebug: Warning: Unknown breakpoint hit at node K2Node_IfThenElse in object Function /Game/Content/Blueprints/UMG/InventoryMenu.InventoryMenu_C:UpdateMenu:048A
+[2018.03.21-14.42.35:168][957]LogScriptCore: Warning: Cannot call UnrealScript (HUD /Game/Content/Maps/FinalMaps/UEDPIE_0_Plains.Plains:PersistentLevel.HUD_0 - Function /Script/Engine.HUD:ReceiveDrawHUD) while stopped at a breakpoint.
+[2018.03.21-14.42.50:216][957]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SetBrush', from offset 1611
+[2018.03.21-14.42.50:217][957]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Content/Blueprints/UMG/InventoryMenu.InventoryMenu_C:Construct
+	Function /Game/Content/Blueprints/UMG/InventoryMenu.InventoryMenu_C:ExecuteUbergraph_InventoryMenu
+	Function /Game/Content/Blueprints/UMG/InventoryMenu.InventoryMenu_C:UpdateMenu
+
+[2018.03.21-14.42.58:893][957]LogUObjectBase: Warning: Object is not registered
+[2018.03.21-14.42.58:893][957]LogOutputDevice: Warning: 
+
+Script Stack:
+InventoryMenu_C.UpdateMenu
+InventoryMenu_C.ExecuteUbergraph_InventoryMenu
+InventoryMenu_C.Construct
+
+[2018.03.21-14.42.59:254][957]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.361 s
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: 
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: Stack: 
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x0000000081772786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x000000008151123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x000000008152B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x000000007FC132B6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x000000007BA203AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x000000007B033EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x000000007AEC74AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x000000007AECABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x000000007AFF8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x0000000080E37397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x0000000080E3CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x0000000081079913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x0000000080E93484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x0000000080E8D1F1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x0000000080E8C953 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x0000000080E3702A UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.21-14.42.59:254][957]LogOutputDevice: Error: [Callstack] 0x000000007FBEE650 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x000000007FC1D864 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x000000008002013A UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000081F2723D UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000081F61389 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000081F6626A UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000081F41B02 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000081F2A50E UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000081F41B02 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000081F2A50E UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000081F41B02 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000081D65264 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000081F40EF6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000079F0CF7D UE4Editor-UMG.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000079F0C86C UE4Editor-UMG.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000079F16395 UE4Editor-UMG.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000079F0F4BF UE4Editor-UMG.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x000000007CF24BC7 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x000000007CF512D4 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x000000007DB89A2B UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x000000007DB8DB5B UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x00000000813D4845 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x00000000813D4E2A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x00000000813F589E UE4Editor-Core.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x000000007DBA7C61 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x000000007DBAC482 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x000000007D49D0F4 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x000000007D4A66E8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x000000007F7D6B83 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000080084926 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000052205A26 UE4Editor.exe!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000052215430 UE4Editor.exe!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x00000000522154AA UE4Editor.exe!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000052222379 UE4Editor.exe!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x0000000052223D57 UE4Editor.exe!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x00000000BD6A1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: [Callstack] 0x00000000BF45EFB1 ntdll.dll!UnknownFunction []
+[2018.03.21-14.42.59:255][957]LogOutputDevice: Error: 
+[2018.03.21-14.42.59:266][957]LogStats:                SubmitErrorReport -  0.000 s
