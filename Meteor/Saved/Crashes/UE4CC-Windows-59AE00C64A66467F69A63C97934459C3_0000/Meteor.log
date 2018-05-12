@@ -1,0 +1,1390 @@
+﻿Log file open, 05/11/18 22:36:45
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Meteor
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1433674725) SRandInit(-1433674725).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.770897
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Epic_Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.12-02.36.49:368][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.12-02.36.49:368][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.12-02.36.49:404][  0]LogInit: Computer: BEAULAPTOP
+[2018.05.12-02.36.49:404][  0]LogInit: User: beaum
+[2018.05.12-02.36.49:404][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.12-02.36.49:404][  0]LogInit: High frequency timer resolution =2.648439 MHz
+[2018.05.12-02.36.49:405][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.05.12-02.36.49:405][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.12-02.36.49:405][  0]LogMemory: Process Physical Memory: 274.04 MB used, 274.04 MB peak
+[2018.05.12-02.36.49:405][  0]LogMemory: Process Virtual Memory: 274.02 MB used, 274.02 MB peak
+[2018.05.12-02.36.49:405][  0]LogMemory: Physical Memory: 8689.25 MB used,  7648.14 MB free, 16337.39 MB total
+[2018.05.12-02.36.49:405][  0]LogMemory: Virtual Memory: 686.48 MB used,  7648.14 MB free, 134217728.00 MB total
+[2018.05.12-02.36.50:829][  0]LogInit: Using OS detected language (en-US).
+[2018.05.12-02.36.50:829][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.12-02.36.51:034][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.12-02.36.51:905][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.12-02.36.55:372][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.12-02.36.55:451][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2018.05.12-02.36.55:451][  0]LogD3D11RHI:       8144/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.12-02.36.55:454][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.12-02.36.55:454][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.12-02.36.55:454][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.12-02.36.55:463][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.12-02.36.55:463][  0]LogD3D11RHI:     GPU DeviceId: 0x1617 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.12-02.36.55:463][  0]LogWindows: EnumDisplayDevices:
+[2018.05.12-02.36.55:463][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980M' (P:1 D:1)
+[2018.05.12-02.36.55:463][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.05.12-02.36.55:463][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.05.12-02.36.55:463][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2018.05.12-02.36.55:463][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.12-02.36.55:463][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2018.05.12-02.36.55:463][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.12-02.36.55:463][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.12-02.36.55:463][  0]LogRHI: Texture pool is 5701 MB (70% of 8144 MB)
+[2018.05.12-02.36.55:504][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.12-02.36.55:570][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.12-02.36.55:614][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../GitHub Projects/MeteorVR/Meteor/Intermediate/Shaders/WorkingDirectory/6192/).
+[2018.05.12-02.36.55:614][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/beaum/AppData/Local/Temp/UnrealShaderWorkingDir/875A27AE4ACFB8865A8A48A70112301D/'.
+[2018.05.12-02.36.55:614][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.12-02.36.59:073][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.12-02.36.59:112][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.12-02.36.59:149][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.12-02.36.59:189][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.12-02.36.59:245][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.12-02.36.59:285][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.12-02.36.59:323][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.12-02.36.59:362][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.12-02.36.59:394][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.12-02.36.59:433][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.12-02.36.59:472][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.12-02.36.59:510][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.12-02.36.59:548][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.12-02.36.59:585][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.12-02.36.59:659][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.12-02.36.59:659][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.12-02.36.59:729][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.12-02.36.59:757][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.12-02.36.59:915][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.12-02.36.59:952][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.12-02.36.59:990][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.12-02.37.00:029][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.12-02.37.00:078][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.12-02.37.00:130][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.12-02.37.00:130][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.12-02.37.01:309][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.12-02.37.01:653][  0]LogDerivedDataCache: Loaded boot cache 0.34s 78MB C:/Users/beaum/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.12-02.37.01:653][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/beaum/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.12-02.37.01:654][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub Projects/MeteorVR/Meteor/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.12-02.37.01:654][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.12-02.37.01:654][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub Projects/MeteorVR/Meteor/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.12-02.37.01:654][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.12-02.37.01:746][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.12-02.37.01:760][  0]LogDerivedDataCache: Using Local data cache path C:/Users/beaum/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.12-02.37.01:771][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.12-02.37.01:771][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.12-02.37.01:827][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.12-02.37.01:827][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.12-02.37.07:322][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.12-02.37.08:232][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.12-02.37.08:283][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.12-02.37.08:297][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.12-02.37.08:304][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.12-02.37.08:304][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.12-02.37.08:304][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.12-02.37.08:535][  0]LogNetVersion: Meteor , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2481781071)
+[2018.05.12-02.37.09:305][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.05.12-02.37.14:089][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.141892 seconds
+[2018.05.12-02.37.14:096][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.12-02.37.14:116][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.05.12-02.37.14:116][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.12-02.37.14:166][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.12-02.37.29:673][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.12-02.37.29:728][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.12-02.37.31:947][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.12-02.37.32:773][  0]SourceControl: Source control is disabled
+[2018.05.12-02.37.32:782][  0]SourceControl: Source control is disabled
+[2018.05.12-02.37.33:023][  0]SourceControl: Source control is disabled
+[2018.05.12-02.37.33:124][  0]SourceControl: Source control is disabled
+[2018.05.12-02.37.35:232][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.12-02.37.35:668][  0]LogOcInput: OculusInput pre-init called
+[2018.05.12-02.37.37:052][  0]LogEngine: Initializing Engine...
+[2018.05.12-02.37.37:167][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.12-02.37.37:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.12-02.37.37:649][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.12-02.37.38:316][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.12-02.37.38:639][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.12-02.37.38:725][  0]LogInit: FAudioDevice initialized.
+[2018.05.12-02.37.38:856][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/beaum/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.12-02.37.38:879][  0]LogInit: Texture streaming: Enabled
+[2018.05.12-02.37.39:076][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.12-02.37.39:570][  0]LogInit: Transaction tracking system initialized
+[2018.05.12-02.37.40:207][  0]BlueprintLog: New page: Editor Load
+[2018.05.12-02.37.42:593][  0]LocalizationService: Localization service is disabled
+[2018.05.12-02.37.44:606][  0]LogConsoleResponse: Display: 
+[2018.05.12-02.37.46:691][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub Projects/MeteorVR/Meteor/Content/' took 0.05s
+[2018.05.12-02.37.46:691][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.12-02.37.46:692][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.12-02.37.46:773][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.12-02.37.49:597][  0]SourceControl: Source control is disabled
+[2018.05.12-02.37.49:648][  0]Cmd: MAP LOAD FILE="../../../../../GitHub Projects/MeteorVR/Meteor/Content/Content/Maps/FinalMaps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.12-02.37.49:665][  0]LightingResults: New page: Lighting Build
+[2018.05.12-02.37.50:029][  0]MapCheck: New page: Map Check
+[2018.05.12-02.37.50:030][  0]LightingResults: New page: Lighting Build
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_102 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_101 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_100 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_103 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_104 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_107 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_105 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_108 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_106 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_109 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_111 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_110 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_112 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_114 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_113 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_115 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_116 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_117 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_119 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_118 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_120 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_121 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_122 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_123 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_124 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:353][  0]LogTexture: Display: Building textures: HQ_Lightmap1_125 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_126 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_127 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_129 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_128 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_130 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_131 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_132 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_133 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_134 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_136 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_135 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_137 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_138 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_139 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_140 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_141 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_142 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_143 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_144 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_145 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_146 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_147 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_148 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_149 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:354][  0]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_150 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_151 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_152 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_153 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_155 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_154 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_156 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_157 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_158 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_159 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_160 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_161 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_162 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_163 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_164 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_165 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_166 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_167 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_168 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_169 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_171 (AutoDXT, 128X128)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_170 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_172 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_174 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_173 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_175 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_176 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_177 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_178 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_180 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_181 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_179 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_182 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_183 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_184 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_185 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_186 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_187 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_189 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_188 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:355][  0]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_191 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_190 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_192 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_193 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_195 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_194 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_197 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_196 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_198 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_199 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_202 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_201 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_200 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_204 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_205 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_203 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_206 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_208 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_209 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_207 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_21 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_210 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_211 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_212 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_213 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_214 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_215 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_217 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_216 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_218 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_219 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_220 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_221 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_222 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:356][  0]LogTexture: Display: Building textures: HQ_Lightmap1_224 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:357][  0]LogTexture: Display: Building textures: HQ_Lightmap1_223 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:357][  0]LogTexture: Display: Building textures: HQ_Lightmap1_225 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:357][  0]LogTexture: Display: Building textures: HQ_Lightmap1_226 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:357][  0]LogTexture: Display: Building textures: HQ_Lightmap1_228 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:357][  0]LogTexture: Display: Building textures: HQ_Lightmap1_227 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:357][  0]LogTexture: Display: Building textures: HQ_Lightmap1_23 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:357][  0]LogTexture: Display: Building textures: HQ_Lightmap1_229 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:357][  0]LogTexture: Display: Building textures: HQ_Lightmap1_232 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:357][  0]LogTexture: Display: Building textures: HQ_Lightmap1_231 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:357][  0]LogTexture: Display: Building textures: HQ_Lightmap1_230 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:357][  0]LogTexture: Display: Building textures: HQ_Lightmap1_233 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:357][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_234 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_235 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_236 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_237 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_238 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_239 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_24 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_240 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_242 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_241 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_244 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_243 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_247 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_246 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_248 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_245 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_249 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_25 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_250 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_251 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_252 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_253 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:358][  0]LogTexture: Display: Building textures: HQ_Lightmap1_254 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:359][  0]LogTexture: Display: Building textures: HQ_Lightmap1_256 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:360][  0]LogTexture: Display: Building textures: HQ_Lightmap1_258 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:360][  0]LogTexture: Display: Building textures: HQ_Lightmap1_255 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:360][  0]LogTexture: Display: Building textures: HQ_Lightmap1_257 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:373][  0]LogTexture: Display: Building textures: HQ_Lightmap1_259 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:373][  0]LogTexture: Display: Building textures: HQ_Lightmap1_26 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:373][  0]LogTexture: Display: Building textures: HQ_Lightmap1_261 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:373][  0]LogTexture: Display: Building textures: HQ_Lightmap1_260 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:383][  0]LogTexture: Display: Building textures: HQ_Lightmap1_262 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:383][  0]LogTexture: Display: Building textures: HQ_Lightmap1_264 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:383][  0]LogTexture: Display: Building textures: HQ_Lightmap1_263 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:383][  0]LogTexture: Display: Building textures: HQ_Lightmap1_266 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:383][  0]LogTexture: Display: Building textures: HQ_Lightmap1_265 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:383][  0]LogTexture: Display: Building textures: HQ_Lightmap1_267 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:399][  0]LogTexture: Display: Building textures: HQ_Lightmap1_268 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:399][  0]LogTexture: Display: Building textures: HQ_Lightmap1_269 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:399][  0]LogTexture: Display: Building textures: HQ_Lightmap1_27 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:399][  0]LogTexture: Display: Building textures: HQ_Lightmap1_270 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:399][  0]LogTexture: Display: Building textures: HQ_Lightmap1_271 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:400][  0]LogTexture: Display: Building textures: HQ_Lightmap1_272 (AutoDXT, 256X256)
+[2018.05.12-02.37.56:400][  0]LogTexture: Display: Building textures: HQ_Lightmap1_273 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_275 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_274 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_276 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_277 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_278 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_279 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_28 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_282 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_283 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_281 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_280 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_284 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_286 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_287 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_285 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_288 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_289 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_293 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_290 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_292 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_291 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_294 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_295 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:910][  0]LogTexture: Display: Building textures: HQ_Lightmap1_296 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_297 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_298 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_299 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_30 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_300 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_301 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_302 (AutoDXT, 128X128)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_303 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_304 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_305 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_306 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_307 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_308 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_309 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_31 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_311 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_310 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_312 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_313 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_314 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_315 (AutoDXT, 128X128)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_317 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_316 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_318 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_32 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_319 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_320 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_321 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_322 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_323 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_324 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_325 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_327 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_326 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_328 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_329 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_330 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_331 (AutoDXT, 128X128)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_332 (AutoDXT, 128X128)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_333 (AutoDXT, 128X128)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_334 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_336 (AutoDXT, 128X128)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_335 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:911][  0]LogTexture: Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_36 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_37 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_38 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_39 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_40 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_41 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_42 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_43 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_44 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_45 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_46 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_47 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_48 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_49 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_51 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_52 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_53 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_54 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_50 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_55 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_56 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:912][  0]LogTexture: Display: Building textures: HQ_Lightmap1_57 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:915][  0]LogTexture: Display: Building textures: HQ_Lightmap1_58 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:915][  0]LogTexture: Display: Building textures: HQ_Lightmap1_59 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:916][  0]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:916][  0]LogTexture: Display: Building textures: HQ_Lightmap1_60 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:916][  0]LogTexture: Display: Building textures: HQ_Lightmap1_61 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:916][  0]LogTexture: Display: Building textures: HQ_Lightmap1_62 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:916][  0]LogTexture: Display: Building textures: HQ_Lightmap1_63 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:916][  0]LogTexture: Display: Building textures: HQ_Lightmap1_64 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:916][  0]LogTexture: Display: Building textures: HQ_Lightmap1_65 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_67 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_66 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_68 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_69 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_70 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_71 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_72 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_73 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_74 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_75 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_76 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_77 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_78 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_79 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_81 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_80 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_82 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_83 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_84 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_85 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_86 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_87 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_88 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_89 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_90 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_91 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_92 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_93 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_94 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_95 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_96 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_97 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_98 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: HQ_Lightmap1_99 (AutoDXT, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_100 (DXT1, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_101 (DXT1, 256X256)
+[2018.05.12-02.37.57:917][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_102 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_104 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_103 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_105 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_106 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_108 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_107 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_109 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_111 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_110 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_112 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_113 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_114 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_115 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_117 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_116 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_118 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_119 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_120 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_121 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_122 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_123 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_124 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_125 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_126 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_127 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_128 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_129 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_131 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_130 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_132 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_133 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_134 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_135 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_136 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_137 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_138 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_139 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_140 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_141 (DXT1, 256X256)
+[2018.05.12-02.37.57:918][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_142 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_143 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_144 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_145 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_146 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_147 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_148 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_149 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_150 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_151 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_152 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_153 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_154 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_155 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_156 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_157 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_158 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_159 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_160 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_161 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_162 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_163 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_164 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_165 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_167 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_166 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_168 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_169 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_171 (DXT1, 128X128)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_170 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_172 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_173 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_174 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_175 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_176 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_177 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_178 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_179 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_180 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_181 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_182 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_183 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_184 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_185 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_186 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_187 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_188 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_189 (DXT1, 256X256)
+[2018.05.12-02.37.57:919][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_190 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_191 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_192 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_193 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_194 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_195 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_196 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_198 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_197 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_199 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_200 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_201 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_202 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_203 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_204 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_205 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_206 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_207 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_208 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_209 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_21 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_210 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_211 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_212 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_213 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_214 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_215 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_216 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_217 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_218 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_219 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_220 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_221 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_222 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_223 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_224 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_225 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_226 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_227 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_228 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_229 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_23 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_230 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_231 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_232 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_233 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_234 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_235 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_236 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_237 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_238 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_239 (DXT1, 256X256)
+[2018.05.12-02.37.57:920][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_24 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_240 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_241 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_242 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_243 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_244 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_245 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_246 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_247 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_248 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_249 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_25 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_250 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_251 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_252 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_253 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_254 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_255 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_257 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_256 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_258 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_259 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_26 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_261 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_260 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_262 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_264 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_263 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_265 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_266 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_267 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_268 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_269 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_27 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_270 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_271 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_272 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_273 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_274 (DXT1, 256X256)
+[2018.05.12-02.37.57:921][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_275 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_276 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_277 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_279 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_278 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_28 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_280 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_281 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_282 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_283 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_284 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_285 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_287 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_288 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_286 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_289 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_290 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_291 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_292 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_293 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_294 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_295 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_296 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_297 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_298 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_299 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_30 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_300 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_301 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_302 (DXT1, 128X128)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_303 (DXT1, 256X256)
+[2018.05.12-02.37.57:922][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_304 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_305 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_306 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_307 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_308 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_309 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_31 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_310 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_311 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_312 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_313 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_314 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_315 (DXT1, 128X128)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_316 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_317 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_318 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_319 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_32 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_320 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_321 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_322 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_323 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_324 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_325 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_326 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_327 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_328 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_329 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 256X256)
+[2018.05.12-02.37.59:160][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_330 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_331 (DXT1, 128X128)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_332 (DXT1, 128X128)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_333 (DXT1, 128X128)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_334 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_335 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_336 (DXT1, 128X128)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_34 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_35 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_36 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_37 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_38 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_39 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_40 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_41 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_42 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_43 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_44 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_45 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_46 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_47 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_48 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_49 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_50 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_51 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_52 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_53 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_54 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_55 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_56 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_57 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_58 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_59 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_60 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_61 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_62 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_63 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_64 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_65 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_66 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_67 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_68 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_69 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_70 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_71 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_72 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_73 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_74 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_75 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_76 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_77 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_78 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_79 (DXT1, 256X256)
+[2018.05.12-02.37.59:161][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_80 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_81 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_82 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_83 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_84 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_85 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_86 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_87 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_88 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_89 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_90 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_91 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_92 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_93 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_94 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_95 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_96 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_97 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_98 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_99 (DXT1, 256X256)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_332 (G8, 1024X1024)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_333 (G8, 1024X512)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_334 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_335 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_336 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_337 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_338 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_339 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_340 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_341 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_342 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_343 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_344 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_345 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_346 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_347 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_348 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_349 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_350 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_351 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_352 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_353 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_354 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_355 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_356 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_357 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_358 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_359 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_360 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_361 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_362 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_363 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_364 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_365 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_366 (G8, 256X64)
+[2018.05.12-02.37.59:162][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_367 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_368 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_369 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_370 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_371 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_372 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_373 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_374 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_375 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_376 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_377 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_378 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_379 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_380 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_381 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_382 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_383 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_384 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_385 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_386 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_387 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_388 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_389 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_390 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_391 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_393 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_392 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_394 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_395 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_396 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_397 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_398 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_400 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_399 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_401 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_402 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_403 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_404 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_405 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_407 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_406 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_408 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_409 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_410 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_411 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_412 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_413 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_414 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_415 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_416 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_417 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_418 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_419 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_421 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_422 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_420 (G8, 256X64)
+[2018.05.12-02.37.59:163][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_423 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_424 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_425 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_426 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_427 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_428 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_429 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_430 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_431 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_433 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_432 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_434 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_435 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_436 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_437 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_438 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_439 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_440 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_441 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_443 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_442 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_444 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_445 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_447 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_446 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_448 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_449 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_450 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_451 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_453 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_452 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_454 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_455 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_456 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_458 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_457 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_459 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_460 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_461 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_462 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_463 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_464 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_466 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_465 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_467 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_468 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_470 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_469 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_472 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_471 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_473 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_474 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_475 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_476 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_477 (G8, 256X64)
+[2018.05.12-02.37.59:164][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_478 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_479 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_480 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_481 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_482 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_483 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_484 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_485 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_486 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_487 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_488 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_489 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_491 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_490 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_492 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_494 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_493 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_495 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_496 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_497 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_498 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_499 (G8, 64X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_500 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_501 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_502 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_503 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_504 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_505 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_506 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_507 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_508 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_509 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_510 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_511 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_512 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_513 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_514 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_516 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_515 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_517 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_518 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_519 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_520 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_521 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_522 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_524 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_523 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_525 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_527 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_526 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_528 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_529 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_531 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_530 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_532 (G8, 256X64)
+[2018.05.12-02.37.59:165][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_533 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_534 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_535 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_536 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_537 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_538 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_539 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_540 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_541 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_542 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_543 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_544 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_545 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_546 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_547 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_548 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_549 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_550 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_551 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_553 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_552 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_554 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_555 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_556 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_557 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_558 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_559 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_560 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_561 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_562 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_563 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_564 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_565 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_566 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_568 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_567 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_569 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_570 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_571 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_572 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_573 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_574 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_575 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_577 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_576 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_578 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_579 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_580 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_582 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_581 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_583 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_584 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_585 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_586 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_587 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_588 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_590 (G8, 256X64)
+[2018.05.12-02.37.59:166][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_589 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_591 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_592 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_593 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_594 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_595 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_596 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_597 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_598 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_599 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_600 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_601 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_602 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_603 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_604 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_605 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_606 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_607 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_608 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_609 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_610 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_611 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_612 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_613 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_614 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_616 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_615 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_617 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_618 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_619 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_620 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_621 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_622 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_623 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_624 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_625 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_626 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_627 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_628 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_629 (G8, 128X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_630 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_631 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_632 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_633 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_634 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_635 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_636 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_638 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_637 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_639 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_640 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_641 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_642 (G8, 128X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_644 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_643 (G8, 256X64)
+[2018.05.12-02.37.59:167][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_645 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_646 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_647 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_648 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_649 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_650 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_651 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_652 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_653 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_654 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_655 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_656 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_657 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_658 (G8, 128X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_659 (G8, 64X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_660 (G8, 128X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_661 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_662 (G8, 256X64)
+[2018.05.12-02.37.59:168][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_663 (G8, 128X64)
+[2018.05.12-02.38.05:520][  0]LogAIModule: Creating AISystem for world Main
+[2018.05.12-02.38.23:588][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Content/Maps/FinalMaps/FireAndIce) is flushing async loading
+[2018.05.12-02.38.24:254][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Content/Maps/FinalMaps/Lake) is flushing async loading
+[2018.05.12-02.38.24:333][  0]LogTexture: Display: Building textures: HQ_Lightmap1_337 (AutoDXT, 128X128)
+[2018.05.12-02.38.24:333][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 64X64)
+[2018.05.12-02.38.24:333][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_337 (DXT1, 128X128)
+[2018.05.12-02.38.24:405][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Content/Maps/FinalMaps/Landing) is flushing async loading
+[2018.05.12-02.38.25:499][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Content/Maps/FinalMaps/Spaceship) is flushing async loading
+[2018.05.12-02.38.25:657][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 128X64)
+[2018.05.12-02.38.25:657][  0]LogTexture: Display: Building textures: HQ_Lightmap1_338 (AutoDXT, 128X128)
+[2018.05.12-02.38.25:657][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_338 (DXT1, 128X128)
+[2018.05.12-02.38.26:134][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.12-02.38.26:784][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.12-02.38.26:908][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 105.307ms to complete.
+[2018.05.12-02.38.26:909][  0]LogFileHelpers: Loading map 'Main' took 37.284
+[2018.05.12-02.38.29:652][  0]LogCollectionManager: Loaded 0 collections in 0.001186 seconds
+[2018.05.12-02.38.29:848][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub Projects/MeteorVR/Meteor/Saved/Collections/' took 0.01s
+[2018.05.12-02.38.29:848][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub Projects/MeteorVR/Meteor/Content/Developers/beaum/Collections/' took 0.01s
+[2018.05.12-02.38.29:848][  0]LogFileCache: Scanning file cache for directory 'D:/GitHub Projects/MeteorVR/Meteor/Content/Collections/' took 0.01s
+[2018.05.12-02.38.29:848][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.12-02.38.29:884][  0]LogContentBrowser: Native class hierarchy populated in 0.0136 seconds. Added 2363 classes and 519 folders.
+[2018.05.12-02.38.30:122][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.05.12-02.38.31:237][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.12-02.38.31:374][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2018.05.12-02.38.31:495][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.05.12-02.38.33:094][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.12-02.38.33:094][  0]LogLoad: (Engine Initialization) Total time: 118.72 seconds
+[2018.05.12-02.38.33:094][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.12-02.38.33:108][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.12-02.38.33:108][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.12-02.38.34:405][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.12-02.38.34:698][  0]LogSlate: Took 0.022230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.12-02.38.34:740][  0]LogSlate: Took 0.023624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.12-02.38.34:844][  0]LogSlate: Took 0.018588 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.12-02.38.36:399][  1]LogRenderer: Reallocating scene render targets to support 1200x560 Format 10 NumSamples 1 (Frame:1).
+[2018.05.12-02.38.36:513][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/GitHub Projects/MeteorVR/Meteor/Content/' took 2.75s
+[2018.05.12-02.38.37:126][  1]LogSlate: Took 0.032284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.12-02.38.37:168][  2]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.028 s
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: 
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\PrimitiveSceneProxy.cpp] [Line: 663]
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: PrimitiveComponent tried to render with Material MaterialInstanceDynamic_2, which was not present in the component's GetUsedMaterials results
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error:     Owner: BP_SpaceSphere_114, Resource: P_SolarFlares
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: Stack: 
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x0000000001E92786 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x0000000001C3123A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x0000000001C4B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x00000000EDAC385D UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x00000000EDA5A521 UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x00000000ED901B40 UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x00000000ED8FD7FE UE4Editor-Engine.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x00000000E8FC1F8F UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x00000000E8FAB3F7 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x00000000E8FC78DA UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x00000000E8AA444D UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x00000000E8FDE9A4 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x00000000E8FBDA76 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x0000000001AF4845 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x0000000001AF4E2A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x00000000439D22C4 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x00000000439D32F6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x0000000001E9092C UE4Editor-Core.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x0000000001E82563 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x000000005A911FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: [Callstack] 0x000000005C46F061 ntdll.dll!UnknownFunction []
+[2018.05.12-02.38.37:182][  2]LogOutputDevice: Error: 
+[2018.05.12-02.38.37:182][  2]LogStats:                SubmitErrorReport -  0.000 s
